@@ -1,0 +1,9 @@
+product_id,product_name,monthly_price,data_gb
+101,Prepaid Basic,5.99,5
+102,Prepaid Plus,9.99,12
+103,Postpaid Silver,15.99,25
+104,Postpaid Gold,29.99,50
+105,Family Plan,39.99,80
+106,5G Unlimited,49.99,999
+107,Data Add-on 5GB,3.99,5
+108,Data Add-on 10GB,6.99,10
