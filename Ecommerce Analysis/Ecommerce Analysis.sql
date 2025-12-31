@@ -1,15 +1,21 @@
 CREATE DATABASE ECOMMERCE_REPORT;
 USE ECOMMERCE_REPORT;
 
-/*
+-- Import Datasets Tables : CUSTOMERS, PRODUCTS, ORDERS, ORDER_ITEMS.
 
-1	Customer_1	Male	Hyderabad	09-06-2021
-2	Customer_2	Female	Kolkata	20-06-2021
-3	Customer_3	Male	Mumbai	09-09-2021
-4	Customer_4	Male	Mumbai	13-06-2023
-5	Customer_5	Male	Mumbai	27-09-2023
+SELECT * FROM CUSTOMERS LIMIT 5;
+
+/*
+    Customer_id |   Customer_Name | Gender  | City      | Signup_Date
+
+    1           |	Customer_1    | Male	| Hyderabad | 09-06-2021
+    2           |	Customer_2    |	Female	| Kolkata   | 20-06-2021
+    3           |	Customer_3    |	Male	| Mumbai    | 09-09-2021
+    4           |	Customer_4    |	Male	| Mumbai    | 13-06-2023
+    5           |	Customer_5    |	Male	| Mumbai    | 27-09-2023
 
 */
+
 #DATA CLEANING:
 
 -- 1. ROW COUNT CHECK
