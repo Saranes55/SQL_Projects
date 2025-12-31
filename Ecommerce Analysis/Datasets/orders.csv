@@ -1,0 +1,3001 @@
+order_id,customer_id,order_date,payment_method,order_status
+10001,937,29-04-2022,Credit Card,Delivered
+10002,902,29-01-2023,Wallet,Returned
+10003,25,08-03-2023,Debit Card,Cancelled
+10004,653,14-12-2022,Debit Card,Delivered
+10005,117,14-09-2023,Wallet,Delivered
+10006,482,19-11-2023,Debit Card,Delivered
+10007,392,29-04-2022,COD,Shipped
+10008,917,21-06-2022,UPI,Delivered
+10009,994,17-01-2022,UPI,Delivered
+10010,964,05-02-2022,UPI,Delivered
+10011,537,22-08-2023,Debit Card,Returned
+10012,79,30-08-2022,Debit Card,Delivered
+10013,580,20-04-2023,Credit Card,Delivered
+10014,173,28-02-2023,Credit Card,Delivered
+10015,956,13-09-2022,UPI,Shipped
+10016,12,04-05-2023,COD,Delivered
+10017,800,11-05-2023,Credit Card,Delivered
+10018,128,15-01-2022,Credit Card,Returned
+10019,608,28-04-2022,Debit Card,Delivered
+10020,92,04-07-2023,COD,Shipped
+10021,653,21-04-2022,UPI,Delivered
+10022,543,20-04-2022,Credit Card,Delivered
+10023,846,24-10-2023,COD,Delivered
+10024,532,02-07-2023,COD,Delivered
+10025,658,06-09-2022,UPI,Delivered
+10026,989,23-02-2022,COD,Delivered
+10027,828,21-04-2023,COD,Returned
+10028,447,13-09-2022,COD,Delivered
+10029,390,21-07-2022,Credit Card,Delivered
+10030,672,29-09-2022,UPI,Delivered
+10031,861,12-06-2022,COD,Shipped
+10032,43,31-05-2022,COD,Delivered
+10033,254,04-11-2023,Credit Card,Delivered
+10034,130,17-08-2023,UPI,Delivered
+10035,60,17-09-2022,Debit Card,Delivered
+10036,663,06-07-2023,Credit Card,Delivered
+10037,467,02-07-2022,UPI,Shipped
+10038,287,10-05-2022,COD,Delivered
+10039,517,19-07-2023,UPI,Cancelled
+10040,467,05-03-2022,UPI,Delivered
+10041,930,02-12-2023,UPI,Delivered
+10042,778,19-03-2022,Debit Card,Shipped
+10043,345,31-05-2023,UPI,Delivered
+10044,642,18-07-2022,Debit Card,Shipped
+10045,382,18-12-2022,COD,Delivered
+10046,779,25-09-2023,Debit Card,Shipped
+10047,690,03-09-2023,COD,Delivered
+10048,253,30-06-2023,COD,Delivered
+10049,927,17-11-2022,Debit Card,Delivered
+10050,56,28-08-2022,Credit Card,Delivered
+10051,463,21-06-2023,Wallet,Delivered
+10052,457,26-08-2022,UPI,Delivered
+10053,983,03-09-2022,Wallet,Delivered
+10054,83,19-05-2023,UPI,Delivered
+10055,905,09-04-2022,UPI,Returned
+10056,99,24-03-2022,COD,Delivered
+10057,149,20-05-2023,UPI,Delivered
+10058,329,31-01-2022,UPI,Delivered
+10059,156,02-10-2023,Debit Card,Delivered
+10060,190,09-05-2023,Wallet,Delivered
+10061,494,20-09-2023,Debit Card,Delivered
+10062,883,19-06-2023,UPI,Shipped
+10063,263,03-09-2023,COD,Cancelled
+10064,80,31-07-2022,Debit Card,Delivered
+10065,400,19-09-2023,Debit Card,Delivered
+10066,764,18-11-2023,Credit Card,Delivered
+10067,609,06-04-2023,UPI,Delivered
+10068,260,01-05-2023,COD,Delivered
+10069,772,02-05-2022,Debit Card,Delivered
+10070,615,12-01-2022,Debit Card,Delivered
+10071,552,22-07-2022,COD,Delivered
+10072,785,10-07-2022,UPI,Delivered
+10073,101,08-10-2022,Credit Card,Cancelled
+10074,359,07-10-2023,Debit Card,Delivered
+10075,380,02-09-2023,Credit Card,Cancelled
+10076,820,25-04-2022,Wallet,Shipped
+10077,221,08-08-2022,UPI,Delivered
+10078,820,06-01-2023,Wallet,Delivered
+10079,420,15-01-2022,Wallet,Delivered
+10080,124,04-02-2023,Wallet,Shipped
+10081,422,09-02-2023,UPI,Shipped
+10082,231,01-07-2023,UPI,Delivered
+10083,690,24-08-2023,COD,Delivered
+10084,63,13-05-2022,Credit Card,Returned
+10085,485,18-10-2022,Credit Card,Delivered
+10086,628,17-09-2022,COD,Returned
+10087,703,20-07-2022,COD,Shipped
+10088,574,11-06-2023,Wallet,Delivered
+10089,768,01-08-2023,COD,Delivered
+10090,483,02-04-2023,Debit Card,Delivered
+10091,519,21-12-2022,Credit Card,Delivered
+10092,155,13-05-2022,COD,Delivered
+10093,92,26-06-2023,Debit Card,Returned
+10094,982,02-12-2023,Debit Card,Shipped
+10095,526,18-05-2022,Debit Card,Shipped
+10096,455,24-08-2022,Debit Card,Delivered
+10097,741,10-09-2023,Wallet,Cancelled
+10098,598,08-10-2022,Debit Card,Returned
+10099,645,02-03-2022,Wallet,Delivered
+10100,510,25-01-2022,Wallet,Delivered
+10101,183,18-01-2023,Debit Card,Delivered
+10102,386,18-09-2023,Credit Card,Shipped
+10103,574,30-06-2023,Debit Card,Delivered
+10104,731,05-02-2023,Debit Card,Returned
+10105,405,01-01-2022,Debit Card,Delivered
+10106,246,24-08-2023,Credit Card,Returned
+10107,742,05-07-2023,UPI,Delivered
+10108,591,22-08-2022,UPI,Delivered
+10109,661,14-11-2023,Wallet,Delivered
+10110,650,13-12-2022,Wallet,Delivered
+10111,471,05-10-2022,Credit Card,Cancelled
+10112,826,11-09-2023,COD,Delivered
+10113,888,01-01-2022,UPI,Delivered
+10114,423,04-12-2022,Wallet,Delivered
+10115,901,01-04-2023,UPI,Delivered
+10116,65,01-06-2023,Credit Card,Delivered
+10117,13,07-04-2023,Credit Card,Delivered
+10118,213,07-12-2022,COD,Shipped
+10119,986,17-09-2023,COD,Delivered
+10120,242,13-01-2023,Credit Card,Cancelled
+10121,493,08-03-2023,Wallet,Shipped
+10122,213,24-02-2023,UPI,Delivered
+10123,693,22-05-2022,Debit Card,Delivered
+10124,338,26-02-2022,COD,Delivered
+10125,997,13-08-2022,Debit Card,Shipped
+10126,173,30-03-2022,Wallet,Shipped
+10127,672,20-04-2022,COD,Delivered
+10128,164,04-04-2023,Debit Card,Returned
+10129,465,12-01-2022,Wallet,Delivered
+10130,995,20-08-2023,UPI,Shipped
+10131,497,17-05-2023,Wallet,Shipped
+10132,700,06-01-2022,COD,Delivered
+10133,395,27-06-2022,Credit Card,Delivered
+10134,703,19-11-2022,UPI,Delivered
+10135,917,15-11-2022,Debit Card,Delivered
+10136,308,26-06-2022,COD,Cancelled
+10137,768,24-12-2022,Credit Card,Delivered
+10138,183,23-03-2023,Wallet,Delivered
+10139,629,31-05-2022,Credit Card,Delivered
+10140,794,29-08-2022,COD,Shipped
+10141,510,10-06-2022,COD,Delivered
+10142,708,27-03-2022,Credit Card,Delivered
+10143,546,05-04-2023,Wallet,Delivered
+10144,564,05-03-2022,Credit Card,Shipped
+10145,624,26-01-2023,COD,Cancelled
+10146,764,15-09-2022,COD,Delivered
+10147,594,11-11-2023,Debit Card,Delivered
+10148,744,06-01-2022,Debit Card,Delivered
+10149,227,08-11-2023,UPI,Delivered
+10150,745,11-08-2023,COD,Delivered
+10151,733,09-01-2022,Debit Card,Shipped
+10152,436,12-07-2023,Credit Card,Delivered
+10153,925,28-10-2023,Wallet,Cancelled
+10154,422,01-11-2022,Credit Card,Delivered
+10155,554,30-04-2022,Wallet,Returned
+10156,21,18-02-2023,Debit Card,Returned
+10157,554,05-12-2022,UPI,Delivered
+10158,397,11-06-2023,Credit Card,Delivered
+10159,625,15-06-2022,Credit Card,Delivered
+10160,105,03-01-2023,Credit Card,Delivered
+10161,192,23-09-2023,Wallet,Delivered
+10162,17,06-01-2022,Debit Card,Delivered
+10163,120,09-06-2023,Credit Card,Shipped
+10164,393,06-04-2022,Credit Card,Delivered
+10165,425,27-11-2023,UPI,Cancelled
+10166,129,21-05-2023,UPI,Delivered
+10167,130,12-02-2022,Debit Card,Returned
+10168,572,05-09-2023,Debit Card,Delivered
+10169,560,29-04-2023,COD,Cancelled
+10170,29,10-11-2022,UPI,Delivered
+10171,97,10-07-2022,COD,Delivered
+10172,10,28-07-2022,Wallet,Delivered
+10173,242,21-06-2022,COD,Delivered
+10174,826,24-04-2022,Credit Card,Delivered
+10175,956,24-01-2022,COD,Delivered
+10176,232,10-11-2022,Debit Card,Delivered
+10177,789,24-06-2023,Wallet,Cancelled
+10178,284,02-01-2023,Credit Card,Delivered
+10179,715,02-07-2022,COD,Delivered
+10180,759,19-04-2023,Wallet,Returned
+10181,802,17-04-2023,Wallet,Delivered
+10182,776,09-07-2023,Credit Card,Delivered
+10183,955,28-06-2022,COD,Delivered
+10184,726,16-08-2023,Wallet,Shipped
+10185,200,28-01-2022,Wallet,Cancelled
+10186,945,26-02-2023,UPI,Cancelled
+10187,79,24-01-2022,Wallet,Delivered
+10188,913,19-11-2022,UPI,Returned
+10189,956,01-03-2023,COD,Delivered
+10190,855,23-08-2023,COD,Delivered
+10191,856,27-02-2023,COD,Delivered
+10192,173,16-11-2022,Debit Card,Delivered
+10193,467,20-04-2023,COD,Delivered
+10194,581,03-11-2023,Wallet,Delivered
+10195,416,17-08-2022,Credit Card,Delivered
+10196,940,08-11-2023,UPI,Delivered
+10197,449,03-08-2022,Debit Card,Returned
+10198,87,27-03-2022,COD,Delivered
+10199,101,01-12-2022,COD,Returned
+10200,8,01-12-2023,Credit Card,Delivered
+10201,845,03-04-2023,Credit Card,Cancelled
+10202,200,12-06-2022,Debit Card,Delivered
+10203,505,04-01-2022,UPI,Delivered
+10204,87,08-11-2022,COD,Delivered
+10205,43,23-02-2023,Debit Card,Delivered
+10206,385,07-11-2023,Wallet,Cancelled
+10207,621,30-09-2023,Wallet,Delivered
+10208,435,02-09-2023,Debit Card,Delivered
+10209,408,19-10-2022,COD,Cancelled
+10210,483,30-12-2022,Debit Card,Delivered
+10211,664,20-04-2022,COD,Delivered
+10212,17,09-01-2023,Credit Card,Delivered
+10213,645,01-07-2022,Debit Card,Delivered
+10214,148,04-09-2023,COD,Delivered
+10215,277,20-06-2023,Debit Card,Delivered
+10216,232,22-06-2022,Debit Card,Shipped
+10217,826,14-04-2023,COD,Delivered
+10218,927,22-03-2022,COD,Delivered
+10219,366,16-02-2022,UPI,Delivered
+10220,228,18-03-2023,Debit Card,Shipped
+10221,651,19-01-2022,Wallet,Cancelled
+10222,436,02-04-2022,Debit Card,Delivered
+10223,399,06-09-2022,Debit Card,Returned
+10224,211,14-11-2023,COD,Delivered
+10225,391,22-07-2023,Debit Card,Delivered
+10226,499,14-04-2023,Debit Card,Delivered
+10227,540,03-12-2022,Wallet,Delivered
+10228,563,12-08-2022,COD,Delivered
+10229,491,17-10-2023,Debit Card,Shipped
+10230,442,08-08-2023,Credit Card,Delivered
+10231,261,13-06-2022,UPI,Shipped
+10232,773,13-03-2022,Wallet,Delivered
+10233,350,20-05-2022,Debit Card,Delivered
+10234,352,25-12-2022,Credit Card,Delivered
+10235,520,02-03-2022,Debit Card,Delivered
+10236,320,17-11-2023,Debit Card,Delivered
+10237,138,24-05-2022,COD,Delivered
+10238,550,22-03-2023,COD,Delivered
+10239,623,19-08-2023,COD,Delivered
+10240,992,26-11-2023,Credit Card,Returned
+10241,368,09-05-2023,Debit Card,Delivered
+10242,220,28-06-2023,UPI,Delivered
+10243,337,04-07-2022,Wallet,Delivered
+10244,223,25-06-2023,COD,Shipped
+10245,648,22-06-2023,COD,Returned
+10246,768,30-09-2022,Debit Card,Delivered
+10247,360,11-11-2022,Debit Card,Delivered
+10248,921,02-10-2023,Credit Card,Delivered
+10249,329,25-12-2022,Credit Card,Shipped
+10250,962,07-03-2023,COD,Delivered
+10251,463,05-06-2022,Debit Card,Delivered
+10252,946,01-03-2023,UPI,Delivered
+10253,963,17-12-2022,Wallet,Delivered
+10254,561,14-12-2022,Debit Card,Shipped
+10255,804,11-07-2023,Debit Card,Delivered
+10256,382,14-07-2023,Credit Card,Delivered
+10257,836,24-03-2023,Wallet,Delivered
+10258,590,16-11-2023,COD,Returned
+10259,617,08-09-2022,Debit Card,Returned
+10260,169,27-02-2022,COD,Delivered
+10261,217,26-05-2022,Debit Card,Delivered
+10262,378,20-03-2023,COD,Cancelled
+10263,119,14-01-2023,Wallet,Delivered
+10264,190,16-06-2022,Credit Card,Delivered
+10265,767,14-06-2022,Wallet,Delivered
+10266,370,11-10-2022,UPI,Shipped
+10267,778,04-07-2023,Credit Card,Delivered
+10268,149,08-07-2023,Wallet,Returned
+10269,676,14-12-2022,UPI,Delivered
+10270,652,05-03-2023,Debit Card,Delivered
+10271,859,06-04-2022,Debit Card,Delivered
+10272,488,10-10-2022,COD,Delivered
+10273,770,22-03-2023,Credit Card,Delivered
+10274,374,08-04-2023,Debit Card,Delivered
+10275,781,24-04-2022,Credit Card,Delivered
+10276,693,05-02-2023,Debit Card,Cancelled
+10277,160,16-08-2022,COD,Shipped
+10278,351,07-01-2023,Wallet,Delivered
+10279,912,02-02-2023,COD,Delivered
+10280,288,01-02-2023,UPI,Delivered
+10281,288,25-08-2022,Debit Card,Delivered
+10282,892,14-03-2023,UPI,Cancelled
+10283,226,10-08-2023,UPI,Delivered
+10284,523,08-01-2022,Credit Card,Delivered
+10285,522,28-06-2022,Debit Card,Returned
+10286,783,12-11-2023,UPI,Delivered
+10287,273,09-01-2022,Wallet,Delivered
+10288,936,31-10-2023,UPI,Delivered
+10289,402,02-06-2023,Wallet,Delivered
+10290,183,12-02-2022,Credit Card,Delivered
+10291,969,04-05-2022,UPI,Returned
+10292,665,27-07-2022,COD,Cancelled
+10293,488,30-05-2023,Credit Card,Delivered
+10294,827,09-05-2023,Wallet,Shipped
+10295,846,14-01-2023,Credit Card,Delivered
+10296,124,02-11-2023,UPI,Returned
+10297,985,19-04-2022,Debit Card,Delivered
+10298,626,17-11-2023,Debit Card,Cancelled
+10299,790,23-12-2022,Wallet,Shipped
+10300,414,26-03-2022,Wallet,Delivered
+10301,980,01-07-2022,Debit Card,Shipped
+10302,725,24-12-2022,Wallet,Cancelled
+10303,172,30-10-2022,Credit Card,Returned
+10304,288,16-10-2023,COD,Delivered
+10305,435,30-04-2022,COD,Cancelled
+10306,686,30-07-2023,Credit Card,Cancelled
+10307,113,09-07-2022,COD,Delivered
+10308,888,09-10-2023,UPI,Shipped
+10309,917,23-06-2023,Credit Card,Delivered
+10310,995,17-03-2022,Wallet,Delivered
+10311,122,13-09-2022,Credit Card,Delivered
+10312,544,18-04-2023,Debit Card,Delivered
+10313,222,17-08-2022,Wallet,Delivered
+10314,631,16-09-2022,Debit Card,Delivered
+10315,39,28-03-2022,Wallet,Shipped
+10316,497,14-03-2022,COD,Delivered
+10317,780,19-10-2022,Credit Card,Delivered
+10318,233,12-11-2022,UPI,Delivered
+10319,943,13-07-2023,Wallet,Delivered
+10320,530,19-10-2022,Wallet,Shipped
+10321,149,28-04-2023,Debit Card,Delivered
+10322,397,14-04-2023,COD,Cancelled
+10323,661,22-09-2022,Debit Card,Delivered
+10324,638,08-10-2022,Debit Card,Delivered
+10325,904,15-02-2022,COD,Delivered
+10326,302,14-01-2022,UPI,Delivered
+10327,360,18-10-2022,Debit Card,Delivered
+10328,238,15-05-2023,Debit Card,Delivered
+10329,647,20-07-2023,Wallet,Delivered
+10330,663,02-08-2022,COD,Returned
+10331,236,14-03-2022,Credit Card,Delivered
+10332,736,24-09-2023,UPI,Delivered
+10333,203,20-08-2023,UPI,Delivered
+10334,256,03-10-2023,COD,Delivered
+10335,598,07-10-2023,Wallet,Cancelled
+10336,662,24-02-2022,Wallet,Delivered
+10337,235,21-05-2023,COD,Delivered
+10338,345,20-08-2023,Wallet,Shipped
+10339,534,02-08-2023,UPI,Delivered
+10340,860,25-10-2023,UPI,Delivered
+10341,797,20-12-2022,Credit Card,Delivered
+10342,781,03-04-2023,COD,Delivered
+10343,466,07-01-2022,Debit Card,Cancelled
+10344,770,02-06-2022,Debit Card,Cancelled
+10345,541,22-09-2022,Credit Card,Shipped
+10346,213,28-11-2023,Credit Card,Delivered
+10347,463,26-10-2023,Wallet,Delivered
+10348,436,22-02-2023,Credit Card,Returned
+10349,283,11-11-2023,Credit Card,Delivered
+10350,562,12-05-2023,Debit Card,Delivered
+10351,607,05-08-2022,Wallet,Delivered
+10352,463,01-03-2022,Credit Card,Delivered
+10353,407,23-04-2022,Credit Card,Delivered
+10354,88,20-08-2023,Wallet,Cancelled
+10355,44,12-11-2023,COD,Cancelled
+10356,461,21-08-2022,Wallet,Delivered
+10357,278,05-01-2022,Debit Card,Delivered
+10358,683,21-10-2023,COD,Delivered
+10359,421,04-07-2023,UPI,Cancelled
+10360,701,20-05-2023,Wallet,Delivered
+10361,353,16-10-2022,Debit Card,Returned
+10362,696,01-11-2022,COD,Delivered
+10363,515,06-08-2023,Wallet,Delivered
+10364,703,03-11-2022,Credit Card,Delivered
+10365,630,24-05-2022,Wallet,Returned
+10366,19,23-05-2023,UPI,Delivered
+10367,23,03-07-2022,Wallet,Delivered
+10368,413,25-05-2022,COD,Delivered
+10369,30,20-08-2022,COD,Returned
+10370,807,08-04-2023,Wallet,Cancelled
+10371,108,23-11-2022,COD,Delivered
+10372,367,19-02-2023,Credit Card,Cancelled
+10373,281,04-04-2022,Wallet,Delivered
+10374,128,25-09-2023,Credit Card,Delivered
+10375,229,27-05-2022,Credit Card,Delivered
+10376,111,05-03-2023,Debit Card,Delivered
+10377,136,17-06-2022,Wallet,Returned
+10378,362,11-10-2022,COD,Returned
+10379,186,24-08-2022,Credit Card,Delivered
+10380,656,29-10-2022,Debit Card,Delivered
+10381,584,12-05-2022,Wallet,Cancelled
+10382,129,10-03-2022,Wallet,Shipped
+10383,876,05-08-2023,UPI,Delivered
+10384,261,21-09-2022,UPI,Shipped
+10385,515,13-05-2022,Credit Card,Delivered
+10386,449,07-07-2022,UPI,Delivered
+10387,900,04-05-2022,Credit Card,Cancelled
+10388,104,23-07-2022,COD,Delivered
+10389,483,05-02-2022,Credit Card,Delivered
+10390,224,13-07-2023,UPI,Delivered
+10391,832,19-11-2022,COD,Cancelled
+10392,874,06-10-2022,UPI,Cancelled
+10393,866,25-03-2023,Credit Card,Delivered
+10394,491,20-02-2022,Debit Card,Delivered
+10395,473,16-11-2022,Wallet,Delivered
+10396,10,09-08-2022,UPI,Delivered
+10397,405,10-12-2022,Credit Card,Delivered
+10398,896,12-07-2022,COD,Returned
+10399,302,27-10-2023,UPI,Delivered
+10400,231,30-04-2023,UPI,Delivered
+10401,731,03-11-2022,Wallet,Delivered
+10402,923,04-07-2023,Credit Card,Delivered
+10403,66,31-10-2023,Debit Card,Shipped
+10404,937,28-09-2022,COD,Delivered
+10405,112,25-06-2022,Credit Card,Delivered
+10406,13,22-04-2022,COD,Delivered
+10407,393,06-01-2023,UPI,Delivered
+10408,500,11-01-2023,Wallet,Delivered
+10409,932,04-10-2022,Wallet,Delivered
+10410,598,03-11-2023,Debit Card,Delivered
+10411,234,06-11-2023,Wallet,Delivered
+10412,602,04-07-2023,UPI,Delivered
+10413,314,02-06-2023,Debit Card,Delivered
+10414,566,18-03-2023,Credit Card,Shipped
+10415,12,07-11-2023,Wallet,Delivered
+10416,209,12-04-2022,Debit Card,Delivered
+10417,974,23-05-2022,UPI,Delivered
+10418,14,15-06-2023,COD,Delivered
+10419,633,28-11-2022,COD,Returned
+10420,418,09-10-2023,UPI,Delivered
+10421,437,29-01-2023,UPI,Returned
+10422,377,04-10-2022,COD,Delivered
+10423,20,19-03-2022,Debit Card,Delivered
+10424,587,03-03-2023,COD,Returned
+10425,912,26-05-2023,UPI,Delivered
+10426,755,01-12-2023,Wallet,Delivered
+10427,735,30-08-2022,Credit Card,Delivered
+10428,70,27-07-2022,Wallet,Returned
+10429,824,12-06-2023,Wallet,Delivered
+10430,211,22-05-2023,UPI,Cancelled
+10431,101,20-12-2022,COD,Delivered
+10432,698,06-11-2023,Debit Card,Cancelled
+10433,132,12-12-2022,Wallet,Delivered
+10434,623,05-08-2022,COD,Returned
+10435,381,20-09-2023,Debit Card,Delivered
+10436,132,08-08-2022,Wallet,Shipped
+10437,20,07-05-2023,Debit Card,Delivered
+10438,906,03-09-2022,COD,Delivered
+10439,536,12-03-2022,Credit Card,Delivered
+10440,227,20-02-2023,COD,Delivered
+10441,154,18-09-2023,UPI,Delivered
+10442,805,16-02-2022,Debit Card,Shipped
+10443,742,09-08-2023,Credit Card,Shipped
+10444,469,07-02-2023,Debit Card,Delivered
+10445,822,25-11-2022,Debit Card,Shipped
+10446,1000,02-02-2022,Wallet,Delivered
+10447,871,10-06-2023,UPI,Delivered
+10448,405,25-03-2022,Debit Card,Returned
+10449,202,31-08-2023,COD,Delivered
+10450,38,14-10-2023,COD,Shipped
+10451,942,05-07-2023,Wallet,Delivered
+10452,772,28-08-2022,UPI,Delivered
+10453,188,04-09-2022,UPI,Delivered
+10454,57,14-11-2023,COD,Delivered
+10455,941,25-03-2022,Credit Card,Delivered
+10456,20,24-07-2022,Wallet,Shipped
+10457,273,16-05-2023,Wallet,Cancelled
+10458,119,25-02-2022,COD,Returned
+10459,583,03-02-2023,COD,Delivered
+10460,516,14-09-2023,Credit Card,Delivered
+10461,221,16-09-2023,Credit Card,Delivered
+10462,526,18-01-2023,UPI,Delivered
+10463,515,11-05-2022,Wallet,Delivered
+10464,728,08-02-2023,Wallet,Returned
+10465,741,19-04-2022,COD,Delivered
+10466,336,25-09-2022,UPI,Delivered
+10467,698,11-01-2023,Wallet,Delivered
+10468,55,22-08-2022,UPI,Delivered
+10469,500,06-04-2022,UPI,Delivered
+10470,900,14-11-2023,COD,Shipped
+10471,888,24-09-2022,UPI,Delivered
+10472,766,26-09-2022,Credit Card,Cancelled
+10473,536,01-12-2023,Credit Card,Delivered
+10474,162,13-10-2022,Debit Card,Delivered
+10475,670,11-11-2022,COD,Delivered
+10476,594,31-10-2022,Debit Card,Cancelled
+10477,915,12-11-2022,Credit Card,Returned
+10478,159,06-08-2023,Debit Card,Delivered
+10479,188,28-07-2023,COD,Delivered
+10480,60,11-11-2023,COD,Delivered
+10481,915,29-01-2022,UPI,Delivered
+10482,817,29-12-2022,Wallet,Shipped
+10483,319,24-07-2022,UPI,Delivered
+10484,878,14-06-2022,COD,Delivered
+10485,211,27-02-2022,Credit Card,Delivered
+10486,406,30-11-2022,Credit Card,Delivered
+10487,664,08-05-2022,UPI,Delivered
+10488,109,07-05-2022,COD,Delivered
+10489,76,24-06-2022,Credit Card,Returned
+10490,542,18-09-2023,COD,Returned
+10491,314,17-01-2022,Credit Card,Delivered
+10492,998,08-06-2022,COD,Cancelled
+10493,117,09-08-2023,Debit Card,Delivered
+10494,927,22-09-2022,COD,Delivered
+10495,868,10-02-2023,COD,Delivered
+10496,704,08-03-2023,UPI,Delivered
+10497,19,25-01-2023,Debit Card,Delivered
+10498,432,02-07-2022,Wallet,Delivered
+10499,685,03-05-2023,UPI,Delivered
+10500,740,23-05-2022,Wallet,Shipped
+10501,350,18-04-2022,Credit Card,Delivered
+10502,183,01-07-2023,Wallet,Delivered
+10503,113,05-01-2023,COD,Delivered
+10504,183,26-05-2023,Wallet,Delivered
+10505,481,27-05-2023,UPI,Delivered
+10506,146,02-12-2022,UPI,Cancelled
+10507,831,02-12-2022,Wallet,Delivered
+10508,628,20-06-2022,UPI,Delivered
+10509,113,17-05-2023,UPI,Delivered
+10510,763,01-12-2022,Wallet,Delivered
+10511,476,15-09-2023,Debit Card,Delivered
+10512,763,01-06-2022,Debit Card,Delivered
+10513,303,01-11-2023,Credit Card,Delivered
+10514,971,14-05-2022,UPI,Delivered
+10515,825,29-12-2022,Wallet,Delivered
+10516,118,25-06-2023,UPI,Shipped
+10517,813,10-05-2023,COD,Delivered
+10518,161,06-07-2022,UPI,Cancelled
+10519,401,09-06-2023,UPI,Returned
+10520,198,08-04-2023,Debit Card,Delivered
+10521,260,25-08-2023,Wallet,Delivered
+10522,660,01-05-2022,UPI,Delivered
+10523,752,16-10-2022,Debit Card,Delivered
+10524,47,01-01-2022,Credit Card,Delivered
+10525,987,07-01-2023,Debit Card,Returned
+10526,399,23-01-2022,Debit Card,Shipped
+10527,710,23-01-2023,Debit Card,Delivered
+10528,559,10-08-2022,UPI,Delivered
+10529,78,28-04-2022,UPI,Delivered
+10530,124,11-11-2022,Credit Card,Cancelled
+10531,75,26-08-2022,COD,Delivered
+10532,871,11-02-2022,COD,Delivered
+10533,137,09-10-2022,COD,Returned
+10534,602,10-01-2023,Credit Card,Delivered
+10535,400,29-07-2023,COD,Shipped
+10536,837,26-05-2023,COD,Delivered
+10537,505,19-04-2022,Debit Card,Delivered
+10538,500,21-03-2023,UPI,Shipped
+10539,573,22-03-2022,UPI,Delivered
+10540,138,24-02-2022,Debit Card,Delivered
+10541,50,22-09-2023,Debit Card,Delivered
+10542,771,06-02-2022,Debit Card,Delivered
+10543,973,07-05-2022,UPI,Delivered
+10544,619,17-03-2022,COD,Delivered
+10545,625,15-02-2023,Debit Card,Delivered
+10546,862,01-05-2022,Credit Card,Delivered
+10547,254,25-02-2023,Debit Card,Returned
+10548,630,13-02-2022,Wallet,Cancelled
+10549,710,09-11-2022,Debit Card,Delivered
+10550,849,10-11-2022,UPI,Delivered
+10551,877,04-08-2022,Debit Card,Delivered
+10552,563,05-08-2022,Wallet,Delivered
+10553,757,18-08-2023,Credit Card,Returned
+10554,915,30-04-2022,COD,Returned
+10555,426,18-09-2022,Debit Card,Delivered
+10556,547,14-04-2023,Wallet,Delivered
+10557,302,01-12-2023,Wallet,Delivered
+10558,922,11-07-2022,Credit Card,Delivered
+10559,581,20-06-2023,UPI,Delivered
+10560,349,20-06-2022,Debit Card,Shipped
+10561,832,29-09-2022,Wallet,Returned
+10562,933,15-10-2023,Credit Card,Delivered
+10563,980,03-01-2023,COD,Delivered
+10564,49,23-02-2022,Wallet,Shipped
+10565,917,13-05-2023,Credit Card,Delivered
+10566,74,15-08-2022,UPI,Delivered
+10567,704,08-06-2023,UPI,Delivered
+10568,261,07-10-2022,Wallet,Cancelled
+10569,356,29-10-2023,Wallet,Delivered
+10570,582,05-10-2023,Debit Card,Delivered
+10571,602,13-02-2023,Credit Card,Cancelled
+10572,260,22-10-2022,Wallet,Cancelled
+10573,638,25-03-2022,Debit Card,Shipped
+10574,743,26-11-2022,Debit Card,Delivered
+10575,295,24-01-2023,Wallet,Delivered
+10576,931,11-11-2022,UPI,Returned
+10577,641,12-04-2023,Credit Card,Returned
+10578,792,04-04-2022,Credit Card,Delivered
+10579,313,19-07-2023,UPI,Delivered
+10580,612,05-08-2023,Wallet,Returned
+10581,838,20-05-2023,Credit Card,Returned
+10582,809,27-06-2022,Wallet,Delivered
+10583,182,30-04-2022,Wallet,Delivered
+10584,686,22-07-2022,Debit Card,Delivered
+10585,828,23-08-2022,UPI,Delivered
+10586,364,28-07-2022,Wallet,Delivered
+10587,188,17-09-2023,COD,Delivered
+10588,569,29-03-2023,UPI,Delivered
+10589,543,09-03-2022,Credit Card,Delivered
+10590,596,15-02-2022,Debit Card,Delivered
+10591,664,10-10-2023,Credit Card,Cancelled
+10592,985,26-09-2022,Credit Card,Delivered
+10593,548,02-04-2022,UPI,Delivered
+10594,725,11-10-2022,Credit Card,Cancelled
+10595,926,26-11-2023,Wallet,Delivered
+10596,408,05-09-2022,Credit Card,Shipped
+10597,876,12-07-2022,Debit Card,Cancelled
+10598,618,23-11-2023,Debit Card,Delivered
+10599,414,21-10-2022,COD,Shipped
+10600,342,11-05-2022,Debit Card,Delivered
+10601,220,02-08-2023,Credit Card,Delivered
+10602,903,07-07-2023,Debit Card,Delivered
+10603,163,27-02-2023,UPI,Delivered
+10604,951,20-09-2023,Debit Card,Shipped
+10605,220,03-09-2022,Wallet,Delivered
+10606,270,11-05-2022,UPI,Delivered
+10607,632,13-03-2023,COD,Delivered
+10608,906,26-10-2023,Wallet,Delivered
+10609,848,16-06-2023,Credit Card,Delivered
+10610,400,20-09-2023,Credit Card,Delivered
+10611,182,22-10-2023,Credit Card,Cancelled
+10612,991,16-01-2023,Wallet,Delivered
+10613,618,11-03-2023,Wallet,Cancelled
+10614,729,30-06-2023,Wallet,Delivered
+10615,205,30-06-2022,UPI,Returned
+10616,582,17-05-2022,UPI,Returned
+10617,556,07-03-2022,Credit Card,Delivered
+10618,841,03-04-2023,Debit Card,Delivered
+10619,813,23-10-2023,Credit Card,Cancelled
+10620,228,11-05-2022,COD,Delivered
+10621,696,08-10-2022,UPI,Shipped
+10622,619,06-08-2023,Wallet,Delivered
+10623,596,03-11-2023,UPI,Delivered
+10624,850,04-05-2022,Wallet,Delivered
+10625,250,18-09-2023,COD,Shipped
+10626,875,16-07-2022,COD,Delivered
+10627,441,17-04-2022,UPI,Cancelled
+10628,533,20-09-2023,Wallet,Cancelled
+10629,196,04-06-2023,COD,Delivered
+10630,690,17-05-2022,Credit Card,Delivered
+10631,929,07-11-2022,Credit Card,Returned
+10632,987,16-11-2022,Wallet,Delivered
+10633,519,17-02-2023,UPI,Returned
+10634,70,15-08-2022,COD,Delivered
+10635,639,17-02-2022,UPI,Delivered
+10636,399,01-09-2023,Credit Card,Returned
+10637,978,10-10-2023,COD,Delivered
+10638,672,17-10-2022,UPI,Delivered
+10639,760,30-08-2023,Debit Card,Delivered
+10640,203,19-08-2022,Wallet,Delivered
+10641,148,29-01-2022,Wallet,Delivered
+10642,472,09-09-2022,Debit Card,Cancelled
+10643,655,13-02-2023,Credit Card,Delivered
+10644,944,19-03-2022,COD,Delivered
+10645,199,27-11-2022,Wallet,Delivered
+10646,917,04-06-2022,Debit Card,Delivered
+10647,426,13-11-2023,Debit Card,Delivered
+10648,666,17-02-2023,Credit Card,Shipped
+10649,492,05-02-2022,Credit Card,Returned
+10650,888,06-12-2022,UPI,Delivered
+10651,896,06-05-2023,Wallet,Delivered
+10652,142,11-08-2022,UPI,Delivered
+10653,313,28-06-2022,Debit Card,Delivered
+10654,165,07-11-2022,COD,Delivered
+10655,314,08-11-2022,COD,Delivered
+10656,21,07-04-2023,Credit Card,Delivered
+10657,82,11-09-2022,COD,Delivered
+10658,581,27-08-2023,COD,Delivered
+10659,131,02-05-2022,COD,Shipped
+10660,599,03-11-2023,Debit Card,Delivered
+10661,730,25-04-2023,COD,Delivered
+10662,933,19-09-2022,COD,Delivered
+10663,984,21-06-2023,COD,Delivered
+10664,305,16-11-2023,UPI,Returned
+10665,915,16-06-2022,Debit Card,Delivered
+10666,371,12-11-2022,Credit Card,Delivered
+10667,857,27-09-2022,UPI,Delivered
+10668,853,23-06-2022,Wallet,Returned
+10669,384,30-06-2023,Debit Card,Delivered
+10670,908,14-02-2022,Debit Card,Delivered
+10671,445,07-10-2022,Wallet,Delivered
+10672,425,31-07-2022,Wallet,Delivered
+10673,161,27-01-2023,Wallet,Delivered
+10674,178,20-08-2022,Credit Card,Delivered
+10675,629,09-04-2022,COD,Delivered
+10676,708,09-06-2022,Debit Card,Cancelled
+10677,895,23-02-2022,COD,Delivered
+10678,490,16-01-2023,COD,Delivered
+10679,327,12-02-2022,Wallet,Delivered
+10680,598,24-11-2022,Credit Card,Shipped
+10681,289,14-01-2023,UPI,Delivered
+10682,593,13-08-2022,Credit Card,Returned
+10683,664,19-09-2023,COD,Delivered
+10684,573,27-08-2023,Credit Card,Delivered
+10685,573,10-03-2022,Wallet,Delivered
+10686,354,30-08-2023,UPI,Delivered
+10687,28,19-11-2023,Wallet,Shipped
+10688,954,29-07-2022,UPI,Shipped
+10689,43,27-04-2022,COD,Delivered
+10690,681,19-07-2022,UPI,Delivered
+10691,423,18-12-2022,UPI,Shipped
+10692,598,29-10-2023,UPI,Delivered
+10693,177,11-01-2023,Credit Card,Delivered
+10694,529,16-09-2022,Credit Card,Delivered
+10695,610,06-11-2022,COD,Delivered
+10696,966,03-02-2022,UPI,Delivered
+10697,494,13-11-2023,Debit Card,Delivered
+10698,198,21-03-2023,COD,Delivered
+10699,610,25-05-2023,UPI,Delivered
+10700,577,07-09-2023,UPI,Delivered
+10701,842,22-11-2022,Credit Card,Delivered
+10702,853,18-01-2022,COD,Cancelled
+10703,517,12-12-2022,UPI,Delivered
+10704,514,03-08-2022,UPI,Delivered
+10705,22,13-10-2023,COD,Shipped
+10706,112,02-03-2023,Debit Card,Shipped
+10707,57,20-11-2023,COD,Delivered
+10708,66,28-07-2023,COD,Delivered
+10709,842,06-08-2023,Debit Card,Returned
+10710,98,27-07-2022,COD,Cancelled
+10711,144,23-07-2022,UPI,Shipped
+10712,880,14-02-2023,COD,Cancelled
+10713,435,01-08-2023,Debit Card,Delivered
+10714,637,29-01-2022,Wallet,Delivered
+10715,679,20-01-2023,COD,Delivered
+10716,86,18-01-2023,Credit Card,Delivered
+10717,588,17-01-2023,UPI,Delivered
+10718,344,27-07-2023,UPI,Delivered
+10719,936,17-08-2022,Credit Card,Delivered
+10720,294,11-05-2023,Credit Card,Returned
+10721,956,19-06-2023,COD,Delivered
+10722,571,03-10-2022,Credit Card,Delivered
+10723,650,19-03-2022,Wallet,Delivered
+10724,611,24-12-2022,Debit Card,Delivered
+10725,704,04-10-2022,Credit Card,Returned
+10726,243,29-10-2023,Credit Card,Delivered
+10727,831,19-04-2023,Wallet,Shipped
+10728,561,18-02-2022,UPI,Delivered
+10729,960,08-08-2022,UPI,Delivered
+10730,32,06-11-2022,COD,Delivered
+10731,391,09-12-2022,Wallet,Delivered
+10732,277,13-01-2022,Debit Card,Cancelled
+10733,532,26-03-2022,Debit Card,Delivered
+10734,154,12-10-2023,Wallet,Cancelled
+10735,383,27-08-2023,Debit Card,Delivered
+10736,68,03-09-2022,UPI,Cancelled
+10737,878,08-06-2023,Debit Card,Delivered
+10738,884,16-07-2022,Debit Card,Cancelled
+10739,214,23-04-2023,Wallet,Delivered
+10740,655,03-10-2022,Wallet,Delivered
+10741,376,25-12-2022,Debit Card,Delivered
+10742,744,04-09-2022,Credit Card,Shipped
+10743,213,07-03-2023,Wallet,Delivered
+10744,79,16-12-2022,COD,Delivered
+10745,726,10-10-2023,COD,Cancelled
+10746,628,13-10-2023,UPI,Delivered
+10747,604,30-08-2022,Debit Card,Delivered
+10748,782,20-05-2023,Credit Card,Delivered
+10749,923,01-07-2022,UPI,Delivered
+10750,381,21-06-2022,Debit Card,Shipped
+10751,680,31-10-2022,Wallet,Returned
+10752,58,02-02-2022,COD,Delivered
+10753,796,29-03-2023,Credit Card,Shipped
+10754,26,19-03-2023,COD,Delivered
+10755,881,23-10-2023,Wallet,Delivered
+10756,447,20-01-2023,Debit Card,Delivered
+10757,66,26-11-2022,Wallet,Delivered
+10758,921,02-08-2022,Wallet,Delivered
+10759,760,22-06-2023,COD,Shipped
+10760,254,07-03-2023,Credit Card,Returned
+10761,899,12-05-2023,Wallet,Delivered
+10762,968,22-06-2023,COD,Delivered
+10763,44,14-10-2022,Credit Card,Returned
+10764,97,26-06-2022,Debit Card,Shipped
+10765,554,28-03-2023,Debit Card,Cancelled
+10766,227,15-01-2023,UPI,Delivered
+10767,774,19-05-2022,COD,Returned
+10768,679,23-02-2023,Credit Card,Delivered
+10769,436,13-06-2023,Wallet,Delivered
+10770,791,01-02-2023,Debit Card,Delivered
+10771,601,19-09-2023,Credit Card,Delivered
+10772,379,04-05-2023,COD,Delivered
+10773,178,24-03-2023,UPI,Delivered
+10774,427,06-04-2023,Debit Card,Delivered
+10775,915,27-04-2023,Credit Card,Returned
+10776,709,22-08-2022,Credit Card,Delivered
+10777,307,17-05-2022,Credit Card,Delivered
+10778,779,04-01-2022,COD,Delivered
+10779,504,09-03-2023,COD,Shipped
+10780,268,31-01-2023,COD,Delivered
+10781,586,19-03-2023,Wallet,Delivered
+10782,8,04-06-2022,Credit Card,Delivered
+10783,920,21-10-2023,Debit Card,Cancelled
+10784,508,11-07-2023,COD,Shipped
+10785,476,12-08-2022,COD,Delivered
+10786,297,01-08-2023,Credit Card,Delivered
+10787,164,21-11-2022,COD,Shipped
+10788,485,07-11-2022,Wallet,Delivered
+10789,597,12-10-2023,Wallet,Delivered
+10790,72,23-09-2022,COD,Delivered
+10791,567,25-02-2022,Credit Card,Delivered
+10792,905,13-02-2023,Credit Card,Delivered
+10793,559,22-11-2023,Credit Card,Delivered
+10794,911,04-02-2022,UPI,Delivered
+10795,944,16-05-2023,COD,Shipped
+10796,238,20-06-2023,Credit Card,Delivered
+10797,104,25-01-2023,Wallet,Cancelled
+10798,210,12-12-2022,Debit Card,Delivered
+10799,554,10-07-2023,Debit Card,Delivered
+10800,828,23-06-2023,Credit Card,Delivered
+10801,468,25-06-2022,Debit Card,Shipped
+10802,454,13-06-2022,Debit Card,Returned
+10803,268,21-10-2022,UPI,Delivered
+10804,386,01-11-2023,Wallet,Cancelled
+10805,775,04-05-2023,Wallet,Delivered
+10806,848,16-12-2022,UPI,Shipped
+10807,387,04-01-2022,UPI,Returned
+10808,877,04-08-2022,Debit Card,Shipped
+10809,259,04-07-2022,COD,Delivered
+10810,283,26-12-2022,Debit Card,Delivered
+10811,626,06-07-2023,UPI,Delivered
+10812,875,17-08-2022,Wallet,Delivered
+10813,40,04-09-2022,Debit Card,Delivered
+10814,486,30-10-2023,COD,Delivered
+10815,929,25-05-2022,Debit Card,Delivered
+10816,220,30-06-2023,Credit Card,Delivered
+10817,129,24-06-2023,Debit Card,Delivered
+10818,520,28-11-2023,UPI,Delivered
+10819,613,24-04-2023,Wallet,Shipped
+10820,928,23-12-2022,Wallet,Delivered
+10821,892,27-02-2022,UPI,Delivered
+10822,688,28-09-2023,Credit Card,Returned
+10823,619,26-02-2022,UPI,Delivered
+10824,613,14-11-2022,Debit Card,Delivered
+10825,260,30-09-2022,UPI,Delivered
+10826,990,17-06-2022,UPI,Delivered
+10827,966,08-07-2023,Credit Card,Shipped
+10828,366,22-07-2022,Debit Card,Delivered
+10829,758,14-11-2022,COD,Delivered
+10830,787,12-01-2022,COD,Delivered
+10831,544,16-09-2022,Wallet,Delivered
+10832,649,02-07-2022,UPI,Returned
+10833,524,18-06-2023,Wallet,Delivered
+10834,907,05-09-2023,Credit Card,Delivered
+10835,814,21-07-2023,COD,Delivered
+10836,887,16-01-2023,UPI,Delivered
+10837,16,15-06-2023,Credit Card,Delivered
+10838,129,19-07-2022,Credit Card,Cancelled
+10839,575,04-12-2022,UPI,Returned
+10840,109,18-12-2022,Credit Card,Shipped
+10841,887,21-08-2022,UPI,Cancelled
+10842,533,17-09-2023,UPI,Delivered
+10843,670,01-07-2022,Debit Card,Delivered
+10844,269,25-03-2022,Wallet,Returned
+10845,162,12-07-2022,Credit Card,Cancelled
+10846,260,16-06-2022,Credit Card,Returned
+10847,924,20-09-2023,Debit Card,Delivered
+10848,102,06-12-2022,Debit Card,Delivered
+10849,506,09-08-2023,Debit Card,Cancelled
+10850,735,16-10-2022,COD,Returned
+10851,571,02-10-2023,COD,Shipped
+10852,247,10-10-2022,COD,Delivered
+10853,640,07-08-2023,UPI,Delivered
+10854,795,07-10-2022,Credit Card,Delivered
+10855,837,29-10-2022,Wallet,Returned
+10856,537,06-04-2023,UPI,Delivered
+10857,131,06-10-2022,Credit Card,Delivered
+10858,353,15-07-2023,Credit Card,Shipped
+10859,196,26-01-2022,Debit Card,Delivered
+10860,793,08-05-2022,Debit Card,Cancelled
+10861,916,16-07-2022,UPI,Delivered
+10862,930,14-07-2022,Debit Card,Cancelled
+10863,666,08-10-2023,Credit Card,Delivered
+10864,382,17-03-2022,Debit Card,Shipped
+10865,645,12-11-2023,COD,Shipped
+10866,227,17-03-2022,Debit Card,Delivered
+10867,701,15-10-2023,Credit Card,Delivered
+10868,476,23-02-2022,UPI,Delivered
+10869,477,20-10-2023,Wallet,Delivered
+10870,265,03-06-2023,Debit Card,Cancelled
+10871,372,09-01-2023,Credit Card,Delivered
+10872,486,05-02-2023,Wallet,Delivered
+10873,434,01-07-2023,Wallet,Delivered
+10874,646,08-05-2023,COD,Cancelled
+10875,211,30-04-2023,Wallet,Shipped
+10876,572,08-10-2023,Credit Card,Delivered
+10877,940,21-12-2022,Credit Card,Delivered
+10878,377,22-01-2023,Debit Card,Delivered
+10879,395,16-01-2023,Debit Card,Delivered
+10880,450,27-04-2023,Debit Card,Delivered
+10881,943,16-07-2023,Wallet,Delivered
+10882,364,23-10-2022,Wallet,Delivered
+10883,876,13-09-2022,COD,Delivered
+10884,457,17-01-2022,Debit Card,Delivered
+10885,725,13-03-2022,UPI,Delivered
+10886,728,16-06-2022,COD,Delivered
+10887,226,29-06-2023,UPI,Returned
+10888,982,03-09-2023,Wallet,Returned
+10889,131,28-05-2023,COD,Delivered
+10890,588,05-02-2023,COD,Delivered
+10891,476,01-01-2023,Credit Card,Returned
+10892,798,05-07-2022,Wallet,Shipped
+10893,986,22-09-2022,Wallet,Delivered
+10894,277,05-06-2022,COD,Delivered
+10895,156,17-09-2023,Wallet,Delivered
+10896,760,03-09-2023,COD,Delivered
+10897,218,24-09-2023,Credit Card,Delivered
+10898,190,06-04-2022,COD,Delivered
+10899,417,19-10-2023,Wallet,Delivered
+10900,981,09-10-2022,Wallet,Delivered
+10901,675,21-08-2022,COD,Delivered
+10902,692,22-09-2022,COD,Delivered
+10903,546,31-07-2023,COD,Delivered
+10904,41,08-03-2022,Debit Card,Delivered
+10905,307,12-09-2022,Wallet,Delivered
+10906,943,25-06-2022,Wallet,Cancelled
+10907,338,28-06-2022,Debit Card,Delivered
+10908,314,19-09-2023,COD,Returned
+10909,75,13-05-2023,Credit Card,Shipped
+10910,953,09-06-2022,COD,Delivered
+10911,279,11-09-2022,COD,Delivered
+10912,176,25-04-2022,Debit Card,Delivered
+10913,896,06-11-2023,Wallet,Cancelled
+10914,662,08-04-2023,COD,Shipped
+10915,273,31-08-2023,Wallet,Returned
+10916,837,07-03-2023,UPI,Delivered
+10917,620,13-06-2023,Wallet,Delivered
+10918,651,18-06-2022,Credit Card,Delivered
+10919,862,03-01-2023,Credit Card,Delivered
+10920,783,17-02-2022,COD,Delivered
+10921,859,01-02-2023,Wallet,Delivered
+10922,931,05-04-2022,COD,Returned
+10923,289,19-08-2023,Debit Card,Delivered
+10924,724,21-07-2023,Credit Card,Delivered
+10925,893,19-01-2022,COD,Delivered
+10926,272,21-02-2023,Debit Card,Cancelled
+10927,930,06-03-2023,COD,Returned
+10928,66,17-11-2023,Wallet,Delivered
+10929,483,04-07-2023,Wallet,Delivered
+10930,936,24-03-2022,Wallet,Delivered
+10931,248,08-01-2022,Wallet,Shipped
+10932,156,31-05-2023,UPI,Delivered
+10933,47,15-05-2022,Debit Card,Delivered
+10934,935,15-03-2022,Debit Card,Delivered
+10935,454,06-01-2022,Wallet,Delivered
+10936,201,02-01-2022,UPI,Cancelled
+10937,660,06-10-2023,Wallet,Delivered
+10938,124,20-08-2023,UPI,Delivered
+10939,1,08-06-2022,Wallet,Delivered
+10940,968,07-07-2023,Credit Card,Delivered
+10941,759,18-06-2022,Credit Card,Shipped
+10942,855,10-07-2023,COD,Delivered
+10943,640,05-10-2023,Wallet,Cancelled
+10944,191,30-11-2022,Debit Card,Returned
+10945,579,16-06-2022,COD,Delivered
+10946,516,03-07-2022,Credit Card,Delivered
+10947,442,30-03-2023,Wallet,Delivered
+10948,921,15-06-2022,COD,Returned
+10949,815,01-03-2023,Wallet,Delivered
+10950,806,28-07-2022,Credit Card,Delivered
+10951,143,07-07-2023,COD,Delivered
+10952,191,25-03-2022,Credit Card,Returned
+10953,533,28-09-2023,UPI,Delivered
+10954,227,29-04-2023,Credit Card,Delivered
+10955,313,09-10-2022,Wallet,Delivered
+10956,629,09-09-2022,Debit Card,Delivered
+10957,949,18-06-2023,Credit Card,Cancelled
+10958,302,10-04-2022,Debit Card,Delivered
+10959,654,22-04-2023,UPI,Cancelled
+10960,996,20-11-2022,COD,Delivered
+10961,460,05-02-2022,COD,Delivered
+10962,401,16-10-2022,Debit Card,Delivered
+10963,551,28-01-2023,COD,Delivered
+10964,393,02-11-2023,Credit Card,Delivered
+10965,867,09-01-2023,Debit Card,Delivered
+10966,764,23-10-2023,Wallet,Delivered
+10967,845,18-11-2022,Credit Card,Delivered
+10968,207,28-08-2022,Credit Card,Delivered
+10969,210,12-02-2022,Credit Card,Shipped
+10970,115,03-06-2023,Wallet,Delivered
+10971,737,25-02-2022,UPI,Delivered
+10972,646,05-01-2023,COD,Delivered
+10973,251,30-08-2023,Debit Card,Returned
+10974,219,12-01-2023,UPI,Returned
+10975,407,26-03-2022,Debit Card,Delivered
+10976,443,16-09-2022,COD,Cancelled
+10977,603,30-11-2023,Wallet,Delivered
+10978,354,15-08-2023,Credit Card,Delivered
+10979,888,25-01-2022,Credit Card,Cancelled
+10980,558,25-07-2023,Wallet,Cancelled
+10981,550,07-11-2022,UPI,Delivered
+10982,142,28-12-2022,UPI,Cancelled
+10983,612,10-06-2023,Debit Card,Delivered
+10984,501,18-09-2023,Wallet,Cancelled
+10985,840,27-12-2022,UPI,Delivered
+10986,702,24-02-2023,Wallet,Delivered
+10987,547,21-04-2022,COD,Delivered
+10988,659,11-10-2022,Credit Card,Delivered
+10989,542,12-03-2023,Credit Card,Delivered
+10990,846,24-02-2022,Credit Card,Delivered
+10991,507,15-05-2023,Wallet,Delivered
+10992,596,04-11-2023,Wallet,Delivered
+10993,881,19-04-2022,Debit Card,Delivered
+10994,281,05-08-2022,Credit Card,Delivered
+10995,424,10-07-2022,Debit Card,Delivered
+10996,856,01-02-2023,Credit Card,Returned
+10997,270,11-10-2022,Debit Card,Cancelled
+10998,154,24-08-2023,Debit Card,Returned
+10999,614,13-12-2022,COD,Delivered
+11000,727,09-04-2022,Debit Card,Returned
+11001,662,22-06-2022,Wallet,Delivered
+11002,944,05-02-2023,Debit Card,Delivered
+11003,83,21-06-2023,Credit Card,Delivered
+11004,622,24-04-2022,Debit Card,Cancelled
+11005,947,21-01-2023,UPI,Delivered
+11006,899,23-01-2022,Credit Card,Delivered
+11007,426,09-05-2022,UPI,Delivered
+11008,275,12-07-2022,Credit Card,Cancelled
+11009,713,16-10-2023,Wallet,Delivered
+11010,284,12-03-2023,Wallet,Delivered
+11011,980,25-08-2022,Wallet,Delivered
+11012,173,30-01-2022,UPI,Delivered
+11013,327,11-04-2023,COD,Delivered
+11014,718,12-02-2022,Credit Card,Delivered
+11015,63,22-04-2022,Wallet,Cancelled
+11016,73,09-05-2022,Credit Card,Delivered
+11017,763,10-10-2022,UPI,Delivered
+11018,636,09-01-2022,COD,Delivered
+11019,375,18-06-2022,UPI,Delivered
+11020,633,03-08-2023,Credit Card,Delivered
+11021,508,27-07-2022,COD,Delivered
+11022,787,16-06-2023,COD,Delivered
+11023,943,04-02-2022,UPI,Returned
+11024,398,08-06-2022,Wallet,Delivered
+11025,120,20-04-2023,Credit Card,Delivered
+11026,934,05-03-2022,Debit Card,Cancelled
+11027,437,17-04-2022,Debit Card,Delivered
+11028,829,19-10-2023,UPI,Returned
+11029,676,27-10-2023,Credit Card,Delivered
+11030,936,11-03-2023,Credit Card,Delivered
+11031,465,07-05-2022,UPI,Cancelled
+11032,286,05-08-2022,Credit Card,Delivered
+11033,265,09-11-2022,Wallet,Delivered
+11034,320,11-03-2023,UPI,Returned
+11035,673,28-11-2022,Wallet,Delivered
+11036,376,09-07-2023,Credit Card,Delivered
+11037,820,19-05-2023,UPI,Delivered
+11038,89,16-07-2023,Credit Card,Cancelled
+11039,654,08-10-2023,UPI,Shipped
+11040,203,28-02-2023,Credit Card,Delivered
+11041,821,19-05-2023,Wallet,Delivered
+11042,739,22-02-2023,Wallet,Shipped
+11043,955,29-10-2022,Credit Card,Delivered
+11044,334,29-07-2023,UPI,Delivered
+11045,222,07-03-2023,Debit Card,Returned
+11046,41,14-11-2023,Wallet,Cancelled
+11047,708,29-09-2022,Wallet,Cancelled
+11048,68,07-08-2022,Debit Card,Delivered
+11049,988,27-01-2022,Credit Card,Delivered
+11050,776,01-05-2023,UPI,Delivered
+11051,514,20-05-2023,Credit Card,Delivered
+11052,873,29-08-2023,COD,Delivered
+11053,637,28-07-2022,Wallet,Returned
+11054,622,13-09-2022,COD,Delivered
+11055,598,19-05-2023,Wallet,Cancelled
+11056,937,15-02-2023,Wallet,Delivered
+11057,632,30-06-2023,COD,Delivered
+11058,127,31-10-2022,COD,Delivered
+11059,255,28-03-2022,Credit Card,Delivered
+11060,695,26-08-2023,COD,Delivered
+11061,16,03-01-2022,Credit Card,Shipped
+11062,477,29-08-2023,Credit Card,Cancelled
+11063,62,09-06-2023,Credit Card,Delivered
+11064,881,17-06-2022,Wallet,Delivered
+11065,432,10-07-2022,Wallet,Shipped
+11066,670,24-07-2022,COD,Delivered
+11067,268,17-08-2022,Wallet,Delivered
+11068,35,27-09-2022,COD,Delivered
+11069,779,15-06-2023,Wallet,Shipped
+11070,576,14-07-2023,UPI,Delivered
+11071,494,04-04-2022,UPI,Delivered
+11072,562,28-05-2023,COD,Shipped
+11073,469,09-02-2023,Wallet,Delivered
+11074,767,08-09-2022,Wallet,Delivered
+11075,661,12-06-2022,Credit Card,Delivered
+11076,325,01-06-2023,Debit Card,Cancelled
+11077,304,17-01-2023,COD,Delivered
+11078,276,24-09-2022,Debit Card,Shipped
+11079,869,17-03-2023,Debit Card,Delivered
+11080,963,18-02-2023,COD,Delivered
+11081,684,01-03-2023,Wallet,Shipped
+11082,929,04-10-2023,COD,Delivered
+11083,201,11-05-2022,Debit Card,Delivered
+11084,445,18-04-2023,Wallet,Delivered
+11085,905,21-01-2023,UPI,Delivered
+11086,324,10-01-2022,COD,Delivered
+11087,35,16-04-2022,COD,Delivered
+11088,977,19-10-2023,Wallet,Delivered
+11089,482,07-03-2022,UPI,Cancelled
+11090,728,26-07-2023,UPI,Delivered
+11091,480,14-06-2023,Wallet,Shipped
+11092,65,18-03-2022,Credit Card,Delivered
+11093,8,27-04-2022,COD,Delivered
+11094,301,25-08-2022,COD,Delivered
+11095,343,05-06-2023,Debit Card,Delivered
+11096,431,26-05-2022,Wallet,Delivered
+11097,424,02-07-2022,Debit Card,Returned
+11098,332,01-07-2023,Debit Card,Shipped
+11099,438,07-05-2023,UPI,Shipped
+11100,588,07-05-2022,COD,Delivered
+11101,174,15-05-2022,Debit Card,Cancelled
+11102,559,06-11-2022,UPI,Delivered
+11103,527,11-07-2023,Wallet,Delivered
+11104,873,29-09-2022,Debit Card,Cancelled
+11105,659,28-02-2022,COD,Delivered
+11106,26,05-02-2022,Debit Card,Delivered
+11107,820,18-07-2023,Wallet,Delivered
+11108,605,05-02-2022,Debit Card,Delivered
+11109,406,27-01-2023,COD,Returned
+11110,232,03-12-2022,UPI,Delivered
+11111,533,09-01-2023,COD,Shipped
+11112,819,22-03-2023,UPI,Delivered
+11113,550,03-11-2023,Credit Card,Delivered
+11114,788,23-04-2022,COD,Delivered
+11115,505,13-07-2023,COD,Delivered
+11116,669,03-09-2023,Wallet,Delivered
+11117,179,02-07-2022,Debit Card,Returned
+11118,132,08-09-2022,UPI,Cancelled
+11119,823,16-08-2023,UPI,Shipped
+11120,455,12-11-2022,Wallet,Cancelled
+11121,348,20-01-2023,Wallet,Cancelled
+11122,540,29-07-2023,Debit Card,Delivered
+11123,772,24-06-2023,Debit Card,Cancelled
+11124,406,25-01-2022,COD,Delivered
+11125,76,29-08-2023,Credit Card,Delivered
+11126,941,29-10-2023,Debit Card,Delivered
+11127,579,12-04-2023,Wallet,Delivered
+11128,854,05-07-2023,Debit Card,Delivered
+11129,492,11-09-2023,UPI,Shipped
+11130,194,14-05-2022,Credit Card,Delivered
+11131,984,28-11-2022,COD,Delivered
+11132,162,07-07-2022,UPI,Delivered
+11133,347,13-09-2023,UPI,Delivered
+11134,951,31-01-2022,Credit Card,Delivered
+11135,361,06-01-2022,COD,Delivered
+11136,769,13-09-2023,Wallet,Delivered
+11137,584,04-10-2023,COD,Delivered
+11138,87,04-05-2022,Debit Card,Returned
+11139,934,25-07-2023,UPI,Returned
+11140,262,12-10-2023,Debit Card,Delivered
+11141,214,05-11-2023,Wallet,Delivered
+11142,665,14-07-2023,Debit Card,Delivered
+11143,722,23-04-2022,COD,Returned
+11144,913,07-06-2022,Debit Card,Delivered
+11145,573,21-11-2023,Wallet,Delivered
+11146,780,22-07-2022,Wallet,Returned
+11147,262,04-12-2022,Wallet,Delivered
+11148,730,15-09-2022,COD,Delivered
+11149,283,21-05-2023,Wallet,Delivered
+11150,648,23-09-2023,UPI,Shipped
+11151,467,26-04-2023,Wallet,Cancelled
+11152,380,05-04-2023,Debit Card,Returned
+11153,362,21-09-2022,Debit Card,Delivered
+11154,449,26-04-2023,Debit Card,Delivered
+11155,441,20-06-2022,COD,Shipped
+11156,93,08-12-2022,Debit Card,Shipped
+11157,621,13-02-2022,COD,Delivered
+11158,753,20-10-2022,COD,Cancelled
+11159,867,19-11-2023,Wallet,Delivered
+11160,424,31-12-2022,UPI,Delivered
+11161,142,07-05-2022,Wallet,Delivered
+11162,291,01-11-2023,Wallet,Delivered
+11163,432,23-07-2023,COD,Shipped
+11164,749,25-08-2023,COD,Delivered
+11165,852,19-06-2022,Debit Card,Delivered
+11166,824,09-06-2023,Debit Card,Shipped
+11167,689,29-06-2022,Wallet,Shipped
+11168,653,27-08-2023,Credit Card,Delivered
+11169,701,27-10-2023,Credit Card,Delivered
+11170,998,01-11-2023,Debit Card,Delivered
+11171,49,19-06-2023,Credit Card,Delivered
+11172,302,25-08-2022,Debit Card,Shipped
+11173,881,17-02-2023,COD,Shipped
+11174,190,03-08-2023,Wallet,Delivered
+11175,136,02-01-2023,UPI,Delivered
+11176,555,11-07-2023,Wallet,Delivered
+11177,404,26-01-2022,Debit Card,Shipped
+11178,892,28-11-2022,Debit Card,Delivered
+11179,865,26-05-2022,Wallet,Delivered
+11180,602,25-09-2022,Debit Card,Delivered
+11181,807,14-08-2022,Credit Card,Delivered
+11182,341,13-02-2023,Credit Card,Delivered
+11183,757,06-04-2023,Debit Card,Delivered
+11184,945,15-05-2023,Debit Card,Shipped
+11185,704,04-02-2022,Credit Card,Shipped
+11186,318,04-06-2022,Debit Card,Returned
+11187,618,25-10-2022,Debit Card,Delivered
+11188,363,26-07-2022,Wallet,Delivered
+11189,822,19-11-2023,UPI,Delivered
+11190,382,06-02-2022,Credit Card,Delivered
+11191,233,11-11-2022,Wallet,Shipped
+11192,777,24-03-2023,UPI,Delivered
+11193,344,23-03-2022,Debit Card,Delivered
+11194,549,12-03-2022,Debit Card,Shipped
+11195,817,13-06-2023,Wallet,Shipped
+11196,553,23-11-2022,Debit Card,Delivered
+11197,529,28-03-2023,COD,Delivered
+11198,856,24-09-2022,Wallet,Delivered
+11199,789,14-05-2023,UPI,Delivered
+11200,819,31-08-2022,Wallet,Delivered
+11201,571,05-09-2022,Credit Card,Delivered
+11202,935,13-07-2022,Wallet,Shipped
+11203,183,01-09-2023,Debit Card,Delivered
+11204,41,17-06-2022,Debit Card,Delivered
+11205,551,19-08-2023,COD,Delivered
+11206,397,28-10-2023,COD,Delivered
+11207,704,24-10-2023,COD,Cancelled
+11208,779,08-01-2023,UPI,Delivered
+11209,494,14-05-2023,COD,Delivered
+11210,659,13-11-2023,UPI,Delivered
+11211,907,28-10-2022,COD,Returned
+11212,333,07-08-2022,UPI,Delivered
+11213,127,02-03-2022,Wallet,Returned
+11214,558,30-09-2022,Wallet,Delivered
+11215,557,31-03-2023,Debit Card,Delivered
+11216,1,08-01-2023,UPI,Delivered
+11217,168,07-02-2022,Credit Card,Shipped
+11218,620,23-10-2023,Debit Card,Shipped
+11219,19,20-10-2023,Wallet,Delivered
+11220,332,26-12-2022,UPI,Delivered
+11221,584,01-12-2023,COD,Delivered
+11222,456,14-02-2023,Credit Card,Delivered
+11223,957,05-05-2022,Wallet,Delivered
+11224,109,29-03-2023,Debit Card,Shipped
+11225,268,26-08-2022,UPI,Shipped
+11226,445,22-05-2023,Credit Card,Delivered
+11227,240,16-04-2023,UPI,Delivered
+11228,929,21-06-2022,COD,Cancelled
+11229,301,08-08-2023,Debit Card,Cancelled
+11230,602,08-04-2023,UPI,Delivered
+11231,103,15-11-2023,Wallet,Delivered
+11232,988,01-01-2023,Debit Card,Delivered
+11233,250,30-07-2022,Wallet,Delivered
+11234,453,30-05-2023,UPI,Delivered
+11235,520,26-03-2022,Debit Card,Delivered
+11236,153,10-01-2022,Wallet,Delivered
+11237,859,31-12-2022,COD,Delivered
+11238,174,17-08-2022,COD,Delivered
+11239,343,22-02-2022,UPI,Delivered
+11240,670,17-04-2022,Debit Card,Cancelled
+11241,431,22-09-2022,Credit Card,Cancelled
+11242,727,08-01-2023,Debit Card,Delivered
+11243,689,04-07-2022,COD,Delivered
+11244,687,06-11-2023,Wallet,Shipped
+11245,852,30-06-2022,Credit Card,Delivered
+11246,850,25-06-2023,UPI,Delivered
+11247,658,15-06-2022,Credit Card,Delivered
+11248,962,16-07-2023,UPI,Delivered
+11249,324,02-05-2022,Credit Card,Delivered
+11250,990,11-06-2022,UPI,Shipped
+11251,673,15-08-2023,UPI,Delivered
+11252,639,21-05-2023,Credit Card,Delivered
+11253,420,17-09-2022,Credit Card,Shipped
+11254,594,14-09-2022,UPI,Delivered
+11255,485,17-02-2022,COD,Delivered
+11256,659,10-04-2022,Credit Card,Delivered
+11257,751,19-02-2023,Debit Card,Delivered
+11258,412,12-07-2023,Wallet,Delivered
+11259,936,16-04-2023,UPI,Delivered
+11260,84,06-11-2023,UPI,Delivered
+11261,113,15-11-2022,Wallet,Delivered
+11262,737,06-11-2023,COD,Delivered
+11263,332,20-06-2022,Wallet,Delivered
+11264,378,16-09-2022,Credit Card,Delivered
+11265,755,28-03-2022,Wallet,Delivered
+11266,655,20-02-2023,UPI,Delivered
+11267,41,29-06-2022,Wallet,Shipped
+11268,935,04-03-2022,Debit Card,Delivered
+11269,770,18-11-2023,Credit Card,Delivered
+11270,959,09-02-2022,Wallet,Returned
+11271,797,28-08-2023,UPI,Delivered
+11272,105,15-12-2022,Credit Card,Delivered
+11273,202,25-05-2023,UPI,Cancelled
+11274,450,04-06-2022,COD,Cancelled
+11275,819,15-05-2022,Debit Card,Delivered
+11276,843,31-07-2023,COD,Delivered
+11277,973,18-08-2022,Debit Card,Delivered
+11278,266,20-06-2022,Wallet,Returned
+11279,910,04-08-2023,Credit Card,Delivered
+11280,210,07-03-2023,Wallet,Delivered
+11281,563,02-05-2023,Debit Card,Cancelled
+11282,118,17-01-2023,Debit Card,Delivered
+11283,713,15-08-2023,Debit Card,Returned
+11284,377,12-05-2023,UPI,Delivered
+11285,551,29-07-2023,Credit Card,Delivered
+11286,540,13-04-2023,Wallet,Delivered
+11287,771,31-10-2023,Wallet,Cancelled
+11288,84,17-04-2022,COD,Delivered
+11289,454,10-11-2022,Debit Card,Delivered
+11290,667,23-10-2023,Debit Card,Delivered
+11291,629,02-11-2022,Debit Card,Returned
+11292,514,26-12-2022,Wallet,Shipped
+11293,605,30-11-2023,COD,Delivered
+11294,678,03-05-2022,UPI,Delivered
+11295,387,19-09-2023,Credit Card,Shipped
+11296,912,16-04-2022,UPI,Delivered
+11297,350,14-11-2023,Wallet,Delivered
+11298,296,18-03-2022,Debit Card,Delivered
+11299,258,24-09-2023,Credit Card,Cancelled
+11300,81,28-05-2023,Wallet,Delivered
+11301,937,07-09-2022,Wallet,Delivered
+11302,268,28-05-2022,Wallet,Delivered
+11303,419,10-05-2022,Credit Card,Delivered
+11304,235,10-12-2022,Credit Card,Delivered
+11305,833,20-06-2023,COD,Delivered
+11306,311,22-05-2022,COD,Delivered
+11307,813,01-10-2022,UPI,Delivered
+11308,975,01-10-2022,Credit Card,Delivered
+11309,986,10-02-2023,Credit Card,Returned
+11310,357,14-04-2023,Credit Card,Cancelled
+11311,213,24-01-2023,COD,Returned
+11312,574,09-02-2023,Wallet,Delivered
+11313,49,07-12-2022,Debit Card,Delivered
+11314,127,07-09-2022,COD,Delivered
+11315,223,05-02-2023,Credit Card,Shipped
+11316,921,16-04-2023,COD,Cancelled
+11317,279,19-02-2023,UPI,Cancelled
+11318,408,02-12-2022,Credit Card,Delivered
+11319,505,16-05-2023,UPI,Delivered
+11320,294,02-04-2023,Credit Card,Delivered
+11321,796,16-04-2023,COD,Delivered
+11322,277,27-08-2023,Wallet,Delivered
+11323,438,26-01-2022,Debit Card,Shipped
+11324,107,15-01-2023,UPI,Delivered
+11325,658,16-03-2023,COD,Delivered
+11326,420,14-07-2022,Wallet,Delivered
+11327,611,01-02-2022,COD,Shipped
+11328,429,25-08-2022,UPI,Delivered
+11329,375,20-07-2023,Debit Card,Delivered
+11330,73,19-11-2022,COD,Shipped
+11331,949,09-10-2023,Credit Card,Delivered
+11332,998,09-11-2023,Wallet,Delivered
+11333,634,10-10-2023,COD,Delivered
+11334,30,09-11-2022,Wallet,Delivered
+11335,188,10-02-2023,Credit Card,Cancelled
+11336,364,06-06-2022,Debit Card,Returned
+11337,866,01-03-2022,Debit Card,Delivered
+11338,800,20-01-2022,Credit Card,Delivered
+11339,451,05-08-2022,Wallet,Delivered
+11340,195,17-09-2022,COD,Delivered
+11341,156,30-03-2022,Credit Card,Delivered
+11342,172,27-08-2023,UPI,Delivered
+11343,847,07-07-2022,Wallet,Delivered
+11344,41,24-09-2023,Debit Card,Cancelled
+11345,63,03-11-2023,Credit Card,Delivered
+11346,23,07-11-2022,Debit Card,Delivered
+11347,360,26-05-2022,Wallet,Delivered
+11348,75,16-09-2023,Debit Card,Cancelled
+11349,560,06-04-2022,Credit Card,Delivered
+11350,672,27-05-2023,Wallet,Delivered
+11351,825,10-12-2022,UPI,Delivered
+11352,118,24-09-2022,Credit Card,Returned
+11353,612,18-03-2022,COD,Delivered
+11354,380,13-09-2023,Credit Card,Cancelled
+11355,929,13-11-2022,Wallet,Shipped
+11356,920,07-02-2022,Credit Card,Returned
+11357,679,31-03-2022,UPI,Delivered
+11358,290,28-08-2023,UPI,Delivered
+11359,440,11-03-2023,COD,Delivered
+11360,668,20-07-2023,Debit Card,Shipped
+11361,933,16-12-2022,Wallet,Delivered
+11362,7,09-08-2023,Wallet,Delivered
+11363,196,29-07-2022,Debit Card,Delivered
+11364,421,22-02-2023,UPI,Delivered
+11365,568,23-03-2023,UPI,Delivered
+11366,833,19-01-2023,Credit Card,Delivered
+11367,193,11-05-2022,COD,Delivered
+11368,559,11-04-2023,COD,Cancelled
+11369,148,03-09-2022,COD,Delivered
+11370,787,27-12-2022,Credit Card,Delivered
+11371,669,17-05-2022,COD,Delivered
+11372,202,27-05-2022,Debit Card,Delivered
+11373,444,05-06-2023,Credit Card,Returned
+11374,914,26-08-2022,Debit Card,Delivered
+11375,988,17-02-2023,Credit Card,Delivered
+11376,419,20-01-2023,COD,Delivered
+11377,427,14-01-2023,Debit Card,Shipped
+11378,479,08-05-2023,Debit Card,Delivered
+11379,475,21-03-2022,Debit Card,Returned
+11380,126,19-08-2023,Credit Card,Delivered
+11381,395,05-02-2022,Wallet,Delivered
+11382,817,13-01-2023,COD,Delivered
+11383,881,17-12-2022,Debit Card,Cancelled
+11384,806,12-03-2023,Wallet,Delivered
+11385,576,03-05-2023,COD,Shipped
+11386,325,11-11-2023,COD,Delivered
+11387,392,07-03-2023,Debit Card,Delivered
+11388,930,01-10-2023,Debit Card,Delivered
+11389,688,25-05-2023,Credit Card,Cancelled
+11390,628,27-04-2022,Wallet,Delivered
+11391,440,01-07-2022,Wallet,Cancelled
+11392,204,02-06-2022,Debit Card,Shipped
+11393,486,01-05-2023,COD,Shipped
+11394,833,23-07-2022,Debit Card,Delivered
+11395,31,04-11-2023,COD,Delivered
+11396,388,26-04-2022,COD,Returned
+11397,625,08-06-2023,Debit Card,Delivered
+11398,877,19-03-2022,UPI,Delivered
+11399,434,10-03-2022,Wallet,Delivered
+11400,837,03-06-2023,COD,Delivered
+11401,926,18-06-2022,COD,Delivered
+11402,376,03-08-2022,UPI,Delivered
+11403,344,06-03-2022,Credit Card,Delivered
+11404,443,06-06-2023,UPI,Delivered
+11405,579,03-12-2022,UPI,Delivered
+11406,75,17-08-2022,COD,Delivered
+11407,557,28-10-2023,Wallet,Delivered
+11408,772,30-03-2022,UPI,Delivered
+11409,666,19-04-2022,Credit Card,Delivered
+11410,155,17-02-2022,Debit Card,Delivered
+11411,430,12-05-2023,UPI,Delivered
+11412,363,28-08-2022,UPI,Returned
+11413,448,23-04-2022,Credit Card,Delivered
+11414,987,22-12-2022,Wallet,Returned
+11415,234,20-05-2022,UPI,Delivered
+11416,563,21-10-2022,UPI,Delivered
+11417,818,01-11-2022,Wallet,Delivered
+11418,262,26-10-2023,Credit Card,Delivered
+11419,827,13-10-2022,UPI,Delivered
+11420,125,16-06-2022,Wallet,Delivered
+11421,911,04-02-2022,UPI,Delivered
+11422,245,07-08-2023,Debit Card,Delivered
+11423,542,04-07-2022,COD,Delivered
+11424,938,24-01-2022,Debit Card,Shipped
+11425,485,26-06-2022,UPI,Delivered
+11426,122,22-09-2023,Credit Card,Delivered
+11427,125,12-11-2023,COD,Delivered
+11428,549,30-08-2023,Debit Card,Delivered
+11429,170,12-06-2022,Wallet,Cancelled
+11430,124,10-01-2023,Credit Card,Delivered
+11431,869,10-02-2023,Debit Card,Delivered
+11432,35,31-01-2023,Wallet,Cancelled
+11433,87,21-09-2023,UPI,Delivered
+11434,646,09-02-2022,Wallet,Delivered
+11435,708,16-03-2023,Debit Card,Shipped
+11436,786,18-09-2023,Debit Card,Delivered
+11437,201,29-11-2022,UPI,Delivered
+11438,369,20-06-2023,Wallet,Delivered
+11439,797,11-12-2022,Wallet,Delivered
+11440,77,01-08-2023,UPI,Delivered
+11441,59,23-06-2022,Wallet,Cancelled
+11442,431,08-02-2023,UPI,Delivered
+11443,638,17-02-2022,Credit Card,Returned
+11444,500,25-05-2023,Debit Card,Shipped
+11445,913,15-08-2022,Credit Card,Delivered
+11446,109,05-12-2022,COD,Delivered
+11447,736,01-02-2023,COD,Delivered
+11448,278,12-01-2023,COD,Shipped
+11449,68,29-07-2023,UPI,Cancelled
+11450,69,28-11-2022,Wallet,Delivered
+11451,165,25-06-2022,Credit Card,Delivered
+11452,489,09-09-2023,Credit Card,Delivered
+11453,305,15-12-2022,Credit Card,Shipped
+11454,909,12-04-2022,Credit Card,Delivered
+11455,674,09-10-2023,COD,Delivered
+11456,365,15-05-2023,Credit Card,Cancelled
+11457,854,01-02-2022,Wallet,Delivered
+11458,821,11-12-2022,COD,Delivered
+11459,379,03-10-2023,Credit Card,Delivered
+11460,343,01-01-2022,UPI,Delivered
+11461,947,30-09-2022,Debit Card,Delivered
+11462,899,16-03-2022,Debit Card,Shipped
+11463,554,08-03-2022,Debit Card,Delivered
+11464,354,18-10-2023,COD,Delivered
+11465,416,04-08-2023,Credit Card,Delivered
+11466,109,03-02-2023,COD,Delivered
+11467,563,31-05-2023,Wallet,Delivered
+11468,762,25-11-2023,UPI,Returned
+11469,497,14-07-2022,UPI,Cancelled
+11470,341,09-07-2023,Debit Card,Delivered
+11471,942,24-02-2022,Debit Card,Delivered
+11472,383,26-02-2022,Debit Card,Delivered
+11473,533,13-11-2023,Credit Card,Shipped
+11474,300,23-11-2023,Wallet,Delivered
+11475,139,18-10-2022,Wallet,Returned
+11476,359,03-09-2023,Wallet,Delivered
+11477,836,20-09-2023,Wallet,Shipped
+11478,499,23-09-2023,Debit Card,Returned
+11479,385,14-05-2023,UPI,Returned
+11480,604,19-09-2023,Debit Card,Delivered
+11481,959,28-11-2023,Wallet,Delivered
+11482,280,18-08-2022,Debit Card,Delivered
+11483,637,08-10-2023,Wallet,Returned
+11484,483,13-07-2023,COD,Delivered
+11485,909,09-10-2022,UPI,Shipped
+11486,111,16-03-2023,COD,Cancelled
+11487,866,03-03-2023,Credit Card,Delivered
+11488,139,06-12-2022,Debit Card,Cancelled
+11489,996,22-02-2022,Credit Card,Delivered
+11490,435,17-01-2022,Debit Card,Delivered
+11491,509,17-01-2023,COD,Delivered
+11492,273,23-12-2022,Wallet,Delivered
+11493,99,01-08-2023,Wallet,Returned
+11494,764,29-04-2023,Debit Card,Delivered
+11495,850,03-09-2023,Wallet,Delivered
+11496,104,26-02-2022,COD,Delivered
+11497,214,16-04-2023,Wallet,Returned
+11498,761,15-07-2023,COD,Delivered
+11499,664,02-12-2023,Credit Card,Cancelled
+11500,762,08-05-2022,COD,Delivered
+11501,787,18-04-2023,UPI,Delivered
+11502,165,22-12-2022,UPI,Delivered
+11503,999,08-10-2023,UPI,Delivered
+11504,853,06-01-2022,Debit Card,Cancelled
+11505,520,14-03-2022,Debit Card,Delivered
+11506,284,18-01-2022,Debit Card,Returned
+11507,517,18-02-2023,COD,Delivered
+11508,657,03-11-2023,Debit Card,Delivered
+11509,613,16-10-2022,Credit Card,Shipped
+11510,164,05-09-2022,UPI,Returned
+11511,886,07-01-2023,COD,Delivered
+11512,659,21-07-2023,UPI,Delivered
+11513,64,11-04-2023,Debit Card,Delivered
+11514,91,14-01-2023,COD,Delivered
+11515,117,30-06-2022,Wallet,Returned
+11516,866,24-10-2023,Credit Card,Returned
+11517,267,14-04-2022,Debit Card,Delivered
+11518,822,21-11-2023,Debit Card,Shipped
+11519,685,02-06-2023,Credit Card,Delivered
+11520,559,09-12-2022,Credit Card,Delivered
+11521,140,06-06-2022,Wallet,Delivered
+11522,246,01-10-2022,Debit Card,Delivered
+11523,661,12-12-2022,Debit Card,Delivered
+11524,758,20-02-2023,UPI,Delivered
+11525,395,06-10-2022,COD,Delivered
+11526,487,01-08-2023,COD,Delivered
+11527,476,18-02-2022,UPI,Cancelled
+11528,517,06-01-2023,COD,Delivered
+11529,977,06-07-2023,Credit Card,Delivered
+11530,184,05-05-2023,COD,Returned
+11531,20,28-06-2022,COD,Shipped
+11532,937,18-09-2022,UPI,Shipped
+11533,558,10-03-2023,Wallet,Delivered
+11534,524,23-05-2023,COD,Delivered
+11535,582,10-02-2022,COD,Delivered
+11536,529,25-02-2022,Wallet,Delivered
+11537,883,29-01-2023,UPI,Shipped
+11538,147,23-06-2023,Wallet,Delivered
+11539,666,26-07-2023,UPI,Delivered
+11540,304,29-08-2023,Credit Card,Delivered
+11541,620,11-11-2022,UPI,Delivered
+11542,748,13-03-2023,Credit Card,Returned
+11543,820,20-05-2023,Credit Card,Delivered
+11544,864,03-05-2023,UPI,Delivered
+11545,582,26-11-2022,Debit Card,Delivered
+11546,695,21-10-2023,UPI,Delivered
+11547,762,04-07-2022,COD,Delivered
+11548,228,09-04-2022,COD,Delivered
+11549,102,17-07-2022,Debit Card,Delivered
+11550,587,24-09-2023,Credit Card,Returned
+11551,417,05-10-2023,Debit Card,Shipped
+11552,958,17-08-2023,COD,Shipped
+11553,216,01-07-2022,Debit Card,Shipped
+11554,407,25-06-2023,UPI,Delivered
+11555,399,07-08-2022,Debit Card,Delivered
+11556,923,29-12-2022,Credit Card,Delivered
+11557,715,30-09-2022,UPI,Cancelled
+11558,704,15-01-2022,Wallet,Shipped
+11559,761,14-09-2022,COD,Cancelled
+11560,499,30-08-2023,COD,Delivered
+11561,754,14-04-2023,Debit Card,Shipped
+11562,465,22-09-2022,UPI,Delivered
+11563,691,17-01-2023,Wallet,Delivered
+11564,949,19-01-2022,UPI,Delivered
+11565,974,22-02-2022,COD,Delivered
+11566,731,03-07-2023,UPI,Delivered
+11567,82,05-10-2023,Wallet,Delivered
+11568,604,20-09-2023,Debit Card,Delivered
+11569,947,16-03-2023,Credit Card,Delivered
+11570,687,28-12-2022,UPI,Cancelled
+11571,751,09-10-2022,Credit Card,Delivered
+11572,772,26-08-2022,COD,Delivered
+11573,903,30-10-2022,Debit Card,Cancelled
+11574,365,29-01-2022,Debit Card,Shipped
+11575,163,12-08-2022,UPI,Delivered
+11576,48,14-06-2022,Debit Card,Delivered
+11577,511,27-06-2022,UPI,Delivered
+11578,329,26-11-2022,UPI,Delivered
+11579,840,02-11-2023,Credit Card,Delivered
+11580,116,08-08-2023,Debit Card,Cancelled
+11581,941,09-03-2022,UPI,Delivered
+11582,849,28-06-2023,Credit Card,Cancelled
+11583,337,29-10-2022,Wallet,Cancelled
+11584,881,01-06-2023,Credit Card,Shipped
+11585,737,06-11-2023,Credit Card,Delivered
+11586,864,09-06-2023,UPI,Shipped
+11587,840,09-10-2022,COD,Delivered
+11588,147,13-08-2022,COD,Delivered
+11589,575,18-04-2023,COD,Delivered
+11590,806,06-02-2023,Credit Card,Delivered
+11591,323,19-04-2023,UPI,Returned
+11592,443,07-09-2023,Debit Card,Delivered
+11593,837,01-01-2022,Credit Card,Delivered
+11594,13,07-11-2022,Credit Card,Delivered
+11595,943,23-08-2022,UPI,Delivered
+11596,494,15-05-2022,Wallet,Delivered
+11597,701,13-05-2023,Credit Card,Cancelled
+11598,287,30-01-2022,Wallet,Delivered
+11599,720,09-03-2023,Wallet,Delivered
+11600,114,07-04-2023,COD,Delivered
+11601,480,09-05-2022,UPI,Delivered
+11602,22,07-06-2023,Wallet,Delivered
+11603,349,27-01-2022,UPI,Delivered
+11604,726,17-04-2023,COD,Shipped
+11605,683,16-07-2023,UPI,Delivered
+11606,835,01-01-2022,Credit Card,Delivered
+11607,566,22-02-2022,Wallet,Delivered
+11608,906,19-10-2023,UPI,Cancelled
+11609,810,10-01-2023,Debit Card,Delivered
+11610,320,12-07-2023,UPI,Delivered
+11611,126,05-03-2023,Wallet,Returned
+11612,277,14-10-2023,COD,Delivered
+11613,976,29-05-2023,COD,Delivered
+11614,204,20-01-2022,Wallet,Delivered
+11615,194,29-11-2023,Credit Card,Delivered
+11616,681,01-10-2023,Credit Card,Delivered
+11617,664,17-12-2022,COD,Delivered
+11618,547,16-01-2022,COD,Delivered
+11619,696,21-02-2023,Wallet,Delivered
+11620,286,19-09-2022,Credit Card,Delivered
+11621,57,25-05-2023,COD,Shipped
+11622,734,14-09-2022,Credit Card,Cancelled
+11623,303,02-03-2023,COD,Returned
+11624,163,19-06-2022,UPI,Delivered
+11625,19,31-01-2022,Debit Card,Delivered
+11626,370,29-11-2022,UPI,Delivered
+11627,264,02-07-2023,COD,Delivered
+11628,794,25-05-2023,Debit Card,Shipped
+11629,113,26-08-2023,Debit Card,Delivered
+11630,488,04-07-2022,COD,Delivered
+11631,327,14-03-2022,COD,Delivered
+11632,542,17-10-2022,Credit Card,Delivered
+11633,647,02-01-2023,COD,Delivered
+11634,579,25-07-2022,Wallet,Delivered
+11635,65,04-01-2022,COD,Delivered
+11636,292,21-06-2023,Wallet,Cancelled
+11637,25,21-07-2023,COD,Delivered
+11638,549,01-07-2022,Credit Card,Shipped
+11639,1,27-08-2022,Wallet,Cancelled
+11640,911,17-12-2022,UPI,Delivered
+11641,549,29-07-2023,Wallet,Returned
+11642,141,27-12-2022,Credit Card,Delivered
+11643,744,16-08-2023,Wallet,Shipped
+11644,648,09-06-2022,COD,Delivered
+11645,901,21-09-2023,COD,Delivered
+11646,188,19-05-2023,Credit Card,Delivered
+11647,128,16-03-2022,Debit Card,Delivered
+11648,201,16-07-2022,COD,Shipped
+11649,127,23-03-2023,UPI,Delivered
+11650,257,08-03-2023,Credit Card,Delivered
+11651,676,12-06-2022,Wallet,Delivered
+11652,547,29-08-2023,Wallet,Shipped
+11653,194,02-10-2022,UPI,Delivered
+11654,703,21-02-2022,COD,Delivered
+11655,104,05-09-2023,Credit Card,Delivered
+11656,535,30-01-2022,UPI,Returned
+11657,265,24-04-2023,COD,Delivered
+11658,802,10-03-2022,Credit Card,Delivered
+11659,942,19-07-2023,Wallet,Delivered
+11660,974,05-11-2023,Credit Card,Returned
+11661,384,16-06-2022,Debit Card,Delivered
+11662,260,02-10-2022,Credit Card,Delivered
+11663,414,14-11-2023,Debit Card,Delivered
+11664,991,07-08-2022,Credit Card,Cancelled
+11665,358,10-06-2022,Debit Card,Shipped
+11666,75,08-09-2022,Wallet,Delivered
+11667,355,09-08-2023,COD,Delivered
+11668,584,20-03-2022,Debit Card,Delivered
+11669,771,08-07-2023,Debit Card,Delivered
+11670,910,17-01-2023,Wallet,Delivered
+11671,188,23-11-2023,Debit Card,Delivered
+11672,973,13-05-2023,UPI,Delivered
+11673,685,18-06-2022,Wallet,Shipped
+11674,992,12-01-2023,UPI,Delivered
+11675,290,09-09-2023,Wallet,Delivered
+11676,45,17-11-2023,Debit Card,Delivered
+11677,573,28-11-2022,UPI,Delivered
+11678,83,04-12-2022,Debit Card,Delivered
+11679,123,10-04-2022,Wallet,Delivered
+11680,358,19-07-2023,Debit Card,Delivered
+11681,528,17-08-2023,UPI,Returned
+11682,66,18-04-2023,UPI,Shipped
+11683,936,13-09-2022,Debit Card,Delivered
+11684,657,25-09-2022,Credit Card,Delivered
+11685,375,10-06-2022,Wallet,Delivered
+11686,162,02-04-2023,Wallet,Delivered
+11687,746,09-01-2023,Debit Card,Delivered
+11688,380,19-07-2023,Credit Card,Returned
+11689,656,04-02-2023,UPI,Shipped
+11690,358,13-04-2023,COD,Shipped
+11691,188,17-05-2022,COD,Delivered
+11692,322,20-04-2023,Debit Card,Cancelled
+11693,450,09-08-2023,Credit Card,Returned
+11694,474,26-07-2023,Credit Card,Delivered
+11695,13,11-05-2023,Wallet,Delivered
+11696,184,16-08-2023,UPI,Cancelled
+11697,111,02-02-2022,Credit Card,Delivered
+11698,927,15-04-2022,COD,Delivered
+11699,508,10-03-2023,UPI,Delivered
+11700,290,15-03-2023,UPI,Delivered
+11701,295,25-12-2022,Debit Card,Delivered
+11702,451,13-11-2022,Credit Card,Shipped
+11703,904,30-09-2023,Debit Card,Delivered
+11704,215,11-01-2022,Credit Card,Delivered
+11705,974,13-07-2022,Wallet,Delivered
+11706,632,24-05-2023,Debit Card,Delivered
+11707,894,12-12-2022,Debit Card,Delivered
+11708,567,13-09-2022,COD,Delivered
+11709,27,15-11-2023,Debit Card,Delivered
+11710,630,10-08-2022,Credit Card,Delivered
+11711,733,08-10-2022,COD,Delivered
+11712,231,25-01-2022,Debit Card,Delivered
+11713,565,17-08-2022,Debit Card,Delivered
+11714,807,01-04-2023,Wallet,Delivered
+11715,321,28-08-2022,Debit Card,Shipped
+11716,913,14-10-2023,UPI,Delivered
+11717,233,25-03-2023,COD,Delivered
+11718,670,14-09-2022,UPI,Delivered
+11719,437,14-05-2022,COD,Delivered
+11720,781,02-05-2023,Wallet,Shipped
+11721,533,05-08-2022,Debit Card,Delivered
+11722,403,01-11-2023,Debit Card,Delivered
+11723,53,15-07-2022,Debit Card,Delivered
+11724,787,08-09-2022,COD,Delivered
+11725,313,10-12-2022,Debit Card,Cancelled
+11726,281,14-10-2023,UPI,Delivered
+11727,726,02-06-2023,Debit Card,Delivered
+11728,31,22-11-2023,Wallet,Delivered
+11729,337,05-03-2023,UPI,Delivered
+11730,183,29-04-2023,Debit Card,Cancelled
+11731,23,11-10-2023,Debit Card,Delivered
+11732,544,08-03-2023,Credit Card,Delivered
+11733,446,13-12-2022,COD,Delivered
+11734,74,29-05-2023,UPI,Delivered
+11735,10,03-12-2022,Credit Card,Delivered
+11736,484,09-06-2023,Wallet,Delivered
+11737,456,16-04-2022,COD,Delivered
+11738,566,06-09-2022,UPI,Delivered
+11739,564,04-12-2022,Debit Card,Delivered
+11740,660,08-04-2022,UPI,Shipped
+11741,160,07-02-2023,Debit Card,Delivered
+11742,882,13-12-2022,COD,Delivered
+11743,14,02-01-2022,Debit Card,Delivered
+11744,178,29-09-2023,Wallet,Delivered
+11745,412,07-06-2023,Debit Card,Delivered
+11746,878,28-11-2022,Wallet,Cancelled
+11747,53,28-04-2022,COD,Delivered
+11748,408,06-09-2022,COD,Delivered
+11749,847,04-01-2022,UPI,Delivered
+11750,22,04-05-2022,Wallet,Delivered
+11751,30,22-10-2022,Wallet,Delivered
+11752,703,27-05-2023,Credit Card,Returned
+11753,260,18-03-2022,Credit Card,Delivered
+11754,205,29-09-2023,Credit Card,Delivered
+11755,59,04-08-2022,Debit Card,Delivered
+11756,471,07-06-2023,Credit Card,Delivered
+11757,776,23-03-2023,Wallet,Delivered
+11758,466,03-08-2023,Debit Card,Delivered
+11759,12,01-08-2022,COD,Delivered
+11760,631,17-06-2022,UPI,Delivered
+11761,927,11-10-2023,Credit Card,Delivered
+11762,974,15-11-2023,COD,Delivered
+11763,290,12-10-2023,Wallet,Delivered
+11764,850,19-03-2022,UPI,Delivered
+11765,760,10-09-2023,COD,Delivered
+11766,354,29-04-2023,UPI,Delivered
+11767,639,30-04-2022,Credit Card,Delivered
+11768,75,01-10-2022,Wallet,Cancelled
+11769,873,20-09-2022,UPI,Delivered
+11770,716,18-01-2023,COD,Delivered
+11771,561,20-06-2022,Credit Card,Delivered
+11772,591,21-06-2022,Credit Card,Delivered
+11773,441,31-10-2022,COD,Delivered
+11774,991,25-09-2022,COD,Delivered
+11775,241,26-06-2022,UPI,Delivered
+11776,861,15-11-2023,Debit Card,Delivered
+11777,154,27-11-2022,Credit Card,Delivered
+11778,786,02-07-2022,UPI,Returned
+11779,96,19-10-2022,COD,Delivered
+11780,726,10-06-2022,UPI,Delivered
+11781,294,04-06-2023,COD,Delivered
+11782,209,23-10-2022,Wallet,Delivered
+11783,343,17-09-2022,COD,Delivered
+11784,88,06-08-2022,COD,Delivered
+11785,818,13-09-2022,COD,Delivered
+11786,776,27-08-2023,Debit Card,Delivered
+11787,937,27-04-2023,COD,Cancelled
+11788,390,30-08-2022,Credit Card,Shipped
+11789,325,29-04-2023,Credit Card,Delivered
+11790,940,27-03-2022,UPI,Delivered
+11791,889,28-01-2022,Debit Card,Delivered
+11792,832,05-12-2022,UPI,Delivered
+11793,157,30-10-2022,Credit Card,Delivered
+11794,668,05-05-2022,Credit Card,Delivered
+11795,651,25-08-2022,Wallet,Shipped
+11796,633,25-07-2023,COD,Delivered
+11797,577,24-10-2022,Credit Card,Delivered
+11798,619,03-02-2022,UPI,Delivered
+11799,659,05-04-2023,UPI,Cancelled
+11800,137,20-08-2023,COD,Delivered
+11801,923,22-12-2022,COD,Delivered
+11802,674,22-03-2022,Wallet,Delivered
+11803,428,23-03-2022,Debit Card,Cancelled
+11804,452,27-10-2022,UPI,Delivered
+11805,612,18-05-2022,COD,Cancelled
+11806,850,10-11-2023,UPI,Delivered
+11807,911,20-05-2022,COD,Delivered
+11808,819,30-07-2023,Credit Card,Delivered
+11809,141,16-04-2022,UPI,Delivered
+11810,83,08-03-2022,Credit Card,Delivered
+11811,177,12-12-2022,UPI,Cancelled
+11812,198,10-09-2022,Debit Card,Delivered
+11813,624,18-09-2023,Wallet,Delivered
+11814,568,04-11-2023,Credit Card,Delivered
+11815,972,08-04-2023,COD,Delivered
+11816,691,23-09-2023,Debit Card,Delivered
+11817,421,31-08-2023,UPI,Delivered
+11818,401,26-02-2023,Credit Card,Delivered
+11819,698,16-04-2023,UPI,Delivered
+11820,471,11-05-2023,UPI,Shipped
+11821,218,11-11-2023,UPI,Delivered
+11822,925,12-03-2022,Wallet,Cancelled
+11823,929,30-01-2022,Wallet,Delivered
+11824,828,13-06-2023,COD,Delivered
+11825,987,23-09-2022,Credit Card,Delivered
+11826,729,18-08-2022,Debit Card,Delivered
+11827,632,19-06-2023,Debit Card,Cancelled
+11828,951,07-04-2022,Debit Card,Delivered
+11829,906,13-09-2022,UPI,Delivered
+11830,175,03-10-2022,Wallet,Cancelled
+11831,23,09-02-2022,Credit Card,Delivered
+11832,725,20-10-2023,UPI,Delivered
+11833,917,07-01-2023,Wallet,Delivered
+11834,235,27-11-2023,Wallet,Cancelled
+11835,13,23-08-2022,Credit Card,Delivered
+11836,101,20-02-2022,Credit Card,Delivered
+11837,929,25-04-2022,Credit Card,Delivered
+11838,536,22-04-2023,UPI,Shipped
+11839,876,09-12-2022,COD,Delivered
+11840,523,16-08-2023,Credit Card,Delivered
+11841,785,02-02-2023,COD,Delivered
+11842,452,10-06-2023,UPI,Shipped
+11843,431,19-07-2022,COD,Cancelled
+11844,793,17-02-2023,Debit Card,Shipped
+11845,606,08-09-2022,COD,Delivered
+11846,713,23-07-2022,Credit Card,Delivered
+11847,533,03-10-2022,UPI,Delivered
+11848,852,27-03-2022,Credit Card,Cancelled
+11849,979,22-10-2023,Debit Card,Delivered
+11850,723,06-08-2022,Credit Card,Delivered
+11851,652,15-10-2023,Credit Card,Returned
+11852,293,10-06-2022,Credit Card,Delivered
+11853,810,01-08-2023,Wallet,Delivered
+11854,913,22-07-2022,Debit Card,Delivered
+11855,101,30-01-2023,Credit Card,Delivered
+11856,502,27-02-2022,Credit Card,Returned
+11857,304,20-03-2022,Credit Card,Delivered
+11858,871,02-03-2022,UPI,Delivered
+11859,540,29-10-2023,Wallet,Delivered
+11860,553,04-08-2022,UPI,Delivered
+11861,355,02-05-2023,Wallet,Delivered
+11862,303,21-06-2023,Credit Card,Delivered
+11863,496,03-10-2022,Debit Card,Delivered
+11864,658,24-06-2022,COD,Delivered
+11865,768,27-01-2022,COD,Delivered
+11866,974,07-01-2022,Credit Card,Delivered
+11867,227,24-05-2023,UPI,Cancelled
+11868,236,22-12-2022,Debit Card,Returned
+11869,873,18-04-2023,Wallet,Returned
+11870,892,26-06-2022,Credit Card,Delivered
+11871,455,08-04-2022,Debit Card,Delivered
+11872,13,03-04-2023,Debit Card,Delivered
+11873,210,25-03-2022,Wallet,Delivered
+11874,741,18-03-2023,Debit Card,Delivered
+11875,397,05-04-2022,UPI,Delivered
+11876,100,16-03-2022,UPI,Shipped
+11877,31,28-02-2022,UPI,Delivered
+11878,898,29-05-2022,Debit Card,Delivered
+11879,528,13-04-2022,UPI,Returned
+11880,649,28-10-2022,Wallet,Delivered
+11881,329,21-03-2022,Debit Card,Cancelled
+11882,166,02-03-2022,COD,Returned
+11883,459,17-10-2022,Debit Card,Shipped
+11884,822,26-06-2023,Wallet,Delivered
+11885,952,10-02-2023,COD,Delivered
+11886,982,27-04-2023,Debit Card,Delivered
+11887,993,13-07-2022,UPI,Delivered
+11888,100,08-03-2023,Credit Card,Delivered
+11889,621,30-11-2023,Credit Card,Delivered
+11890,855,18-02-2022,UPI,Delivered
+11891,173,24-02-2022,Credit Card,Delivered
+11892,749,17-06-2022,Credit Card,Cancelled
+11893,162,29-03-2022,UPI,Returned
+11894,905,28-08-2022,UPI,Delivered
+11895,728,26-03-2022,Debit Card,Delivered
+11896,776,09-10-2023,Debit Card,Returned
+11897,263,15-06-2023,UPI,Delivered
+11898,804,16-05-2022,Wallet,Cancelled
+11899,274,03-11-2023,Credit Card,Shipped
+11900,3,13-11-2023,Debit Card,Delivered
+11901,28,01-11-2023,Credit Card,Cancelled
+11902,326,08-11-2023,COD,Delivered
+11903,940,27-12-2022,UPI,Delivered
+11904,149,04-10-2023,Wallet,Delivered
+11905,540,17-09-2023,COD,Delivered
+11906,488,27-09-2022,COD,Returned
+11907,822,06-10-2022,COD,Delivered
+11908,438,12-11-2023,UPI,Delivered
+11909,65,23-09-2023,Debit Card,Delivered
+11910,356,17-12-2022,UPI,Returned
+11911,533,13-07-2022,Debit Card,Shipped
+11912,252,08-06-2023,COD,Returned
+11913,235,07-01-2023,COD,Delivered
+11914,227,13-02-2023,Wallet,Delivered
+11915,525,04-10-2022,Debit Card,Delivered
+11916,313,06-11-2022,COD,Delivered
+11917,49,10-11-2022,Credit Card,Delivered
+11918,118,17-04-2023,Wallet,Delivered
+11919,54,01-02-2023,UPI,Delivered
+11920,650,17-03-2022,Wallet,Returned
+11921,565,23-09-2023,Credit Card,Delivered
+11922,44,20-09-2022,Debit Card,Delivered
+11923,815,13-10-2022,UPI,Delivered
+11924,53,23-12-2022,UPI,Cancelled
+11925,586,19-06-2022,Debit Card,Returned
+11926,558,14-09-2022,Wallet,Cancelled
+11927,525,04-09-2023,COD,Delivered
+11928,677,12-09-2023,Wallet,Shipped
+11929,102,23-11-2022,Credit Card,Delivered
+11930,792,26-04-2023,COD,Delivered
+11931,770,14-04-2022,Wallet,Shipped
+11932,982,27-03-2023,Debit Card,Delivered
+11933,849,19-11-2022,Credit Card,Delivered
+11934,868,04-09-2023,Credit Card,Delivered
+11935,398,25-05-2023,Credit Card,Delivered
+11936,138,30-10-2022,COD,Shipped
+11937,675,28-01-2023,UPI,Delivered
+11938,921,09-08-2022,COD,Delivered
+11939,387,02-03-2023,Wallet,Delivered
+11940,111,07-09-2022,UPI,Delivered
+11941,614,04-04-2022,Wallet,Delivered
+11942,17,05-07-2023,UPI,Delivered
+11943,780,07-01-2022,COD,Delivered
+11944,182,10-04-2022,Credit Card,Delivered
+11945,884,19-07-2023,Debit Card,Shipped
+11946,536,05-04-2022,Credit Card,Delivered
+11947,541,04-06-2022,COD,Delivered
+11948,171,24-08-2022,UPI,Delivered
+11949,409,10-04-2022,Credit Card,Delivered
+11950,740,03-10-2023,COD,Returned
+11951,378,04-07-2022,Wallet,Shipped
+11952,188,04-04-2023,Debit Card,Delivered
+11953,858,21-04-2022,Credit Card,Cancelled
+11954,230,08-06-2022,UPI,Delivered
+11955,833,24-03-2022,Wallet,Delivered
+11956,852,01-04-2022,COD,Delivered
+11957,119,25-11-2022,Debit Card,Delivered
+11958,156,11-08-2022,UPI,Delivered
+11959,784,29-08-2022,COD,Cancelled
+11960,687,04-04-2023,COD,Delivered
+11961,465,17-10-2023,Credit Card,Shipped
+11962,104,20-02-2022,Credit Card,Returned
+11963,604,16-01-2022,UPI,Delivered
+11964,698,01-05-2023,COD,Delivered
+11965,972,10-06-2023,Credit Card,Delivered
+11966,795,14-12-2022,Debit Card,Shipped
+11967,502,20-08-2022,Debit Card,Delivered
+11968,693,13-05-2022,COD,Delivered
+11969,682,16-06-2023,Credit Card,Delivered
+11970,699,10-04-2022,UPI,Delivered
+11971,175,11-02-2022,UPI,Delivered
+11972,734,12-09-2023,UPI,Delivered
+11973,745,21-11-2023,Debit Card,Delivered
+11974,674,19-05-2023,Credit Card,Delivered
+11975,421,17-08-2023,Credit Card,Delivered
+11976,134,12-08-2022,Debit Card,Delivered
+11977,391,24-01-2022,UPI,Delivered
+11978,992,02-05-2022,UPI,Delivered
+11979,736,10-08-2022,COD,Delivered
+11980,501,10-09-2022,Wallet,Delivered
+11981,665,05-06-2022,Credit Card,Delivered
+11982,33,10-10-2023,Credit Card,Delivered
+11983,55,19-05-2023,Credit Card,Delivered
+11984,954,27-02-2022,Wallet,Delivered
+11985,519,24-08-2022,COD,Delivered
+11986,756,26-06-2023,Wallet,Cancelled
+11987,825,02-10-2023,UPI,Returned
+11988,638,13-06-2022,UPI,Returned
+11989,12,04-09-2023,Credit Card,Returned
+11990,528,21-05-2022,Debit Card,Delivered
+11991,720,15-09-2022,Credit Card,Delivered
+11992,555,08-09-2022,Debit Card,Delivered
+11993,373,29-06-2023,Wallet,Delivered
+11994,484,05-02-2023,UPI,Delivered
+11995,973,08-06-2022,Debit Card,Returned
+11996,647,18-12-2022,Wallet,Delivered
+11997,228,06-02-2023,UPI,Delivered
+11998,623,24-05-2022,Debit Card,Delivered
+11999,307,21-07-2023,Credit Card,Delivered
+12000,457,28-07-2023,Credit Card,Delivered
+12001,160,16-09-2023,Credit Card,Cancelled
+12002,331,23-08-2022,Wallet,Delivered
+12003,776,01-12-2022,Credit Card,Returned
+12004,225,18-01-2023,COD,Delivered
+12005,983,01-08-2023,UPI,Cancelled
+12006,729,09-01-2022,Wallet,Delivered
+12007,504,17-10-2022,Credit Card,Delivered
+12008,456,06-01-2023,UPI,Delivered
+12009,45,18-07-2023,Debit Card,Returned
+12010,214,17-10-2022,Credit Card,Shipped
+12011,59,26-06-2023,UPI,Delivered
+12012,644,08-07-2023,COD,Delivered
+12013,616,10-12-2022,Debit Card,Shipped
+12014,195,18-02-2022,COD,Delivered
+12015,925,21-10-2022,UPI,Delivered
+12016,489,07-09-2022,COD,Delivered
+12017,157,13-02-2022,UPI,Delivered
+12018,610,31-05-2023,UPI,Returned
+12019,226,08-05-2023,COD,Returned
+12020,412,03-07-2023,UPI,Delivered
+12021,205,06-03-2022,Credit Card,Delivered
+12022,79,07-11-2022,UPI,Cancelled
+12023,124,14-02-2022,Wallet,Delivered
+12024,471,30-01-2022,UPI,Cancelled
+12025,940,23-07-2022,Wallet,Delivered
+12026,218,08-08-2022,UPI,Delivered
+12027,516,24-04-2023,UPI,Shipped
+12028,602,12-08-2023,COD,Delivered
+12029,104,22-07-2023,Credit Card,Delivered
+12030,393,03-07-2022,Credit Card,Delivered
+12031,631,23-09-2022,Debit Card,Delivered
+12032,645,16-08-2023,COD,Delivered
+12033,824,24-02-2023,COD,Shipped
+12034,608,14-08-2022,Credit Card,Returned
+12035,980,28-07-2022,COD,Delivered
+12036,434,29-07-2023,Credit Card,Delivered
+12037,331,06-08-2022,COD,Delivered
+12038,143,16-06-2023,UPI,Delivered
+12039,800,15-03-2022,Credit Card,Delivered
+12040,540,23-10-2022,Credit Card,Returned
+12041,278,04-04-2022,Wallet,Delivered
+12042,233,05-06-2023,COD,Cancelled
+12043,529,01-03-2022,COD,Delivered
+12044,571,16-05-2022,Credit Card,Delivered
+12045,90,08-05-2022,UPI,Delivered
+12046,492,22-04-2023,UPI,Delivered
+12047,199,29-09-2022,UPI,Delivered
+12048,362,20-07-2023,COD,Shipped
+12049,441,23-06-2023,Wallet,Delivered
+12050,26,09-01-2022,Credit Card,Shipped
+12051,25,25-05-2023,Debit Card,Delivered
+12052,394,28-04-2022,Wallet,Shipped
+12053,507,01-11-2023,Debit Card,Delivered
+12054,301,13-06-2023,Wallet,Shipped
+12055,339,16-01-2023,UPI,Delivered
+12056,267,12-05-2022,COD,Returned
+12057,461,19-10-2022,Debit Card,Shipped
+12058,693,29-07-2023,Wallet,Delivered
+12059,456,14-12-2022,COD,Delivered
+12060,360,09-09-2023,Debit Card,Delivered
+12061,68,03-04-2023,Credit Card,Shipped
+12062,863,29-10-2023,Wallet,Delivered
+12063,412,09-11-2022,Credit Card,Delivered
+12064,971,06-12-2022,UPI,Delivered
+12065,491,26-05-2023,Credit Card,Delivered
+12066,833,02-10-2023,Credit Card,Cancelled
+12067,49,21-11-2022,Wallet,Delivered
+12068,687,09-04-2023,UPI,Delivered
+12069,564,19-07-2022,Credit Card,Shipped
+12070,102,03-07-2023,COD,Delivered
+12071,216,14-02-2023,Debit Card,Delivered
+12072,438,27-06-2023,Credit Card,Delivered
+12073,700,22-08-2022,UPI,Delivered
+12074,569,29-01-2023,Credit Card,Delivered
+12075,559,04-04-2022,Debit Card,Returned
+12076,159,16-01-2022,UPI,Delivered
+12077,489,07-05-2023,Wallet,Delivered
+12078,686,24-05-2023,UPI,Delivered
+12079,242,28-05-2022,Wallet,Delivered
+12080,794,13-06-2022,UPI,Returned
+12081,753,18-04-2023,Debit Card,Delivered
+12082,882,30-06-2023,Debit Card,Delivered
+12083,5,12-05-2023,UPI,Delivered
+12084,596,28-03-2022,Credit Card,Delivered
+12085,820,08-12-2022,Debit Card,Delivered
+12086,361,21-11-2023,Wallet,Delivered
+12087,459,01-07-2022,Wallet,Delivered
+12088,248,19-12-2022,COD,Returned
+12089,566,26-10-2023,Wallet,Delivered
+12090,673,08-11-2022,COD,Cancelled
+12091,946,25-02-2023,UPI,Cancelled
+12092,422,16-02-2022,UPI,Delivered
+12093,923,23-03-2023,UPI,Delivered
+12094,738,25-06-2022,Credit Card,Delivered
+12095,15,22-10-2023,Credit Card,Delivered
+12096,736,02-10-2022,COD,Returned
+12097,573,20-06-2023,Wallet,Delivered
+12098,122,06-01-2022,Wallet,Delivered
+12099,277,19-05-2023,UPI,Delivered
+12100,558,04-06-2022,Debit Card,Delivered
+12101,453,26-04-2022,Credit Card,Delivered
+12102,390,31-05-2022,Credit Card,Returned
+12103,294,18-09-2022,UPI,Delivered
+12104,574,07-01-2023,Credit Card,Returned
+12105,598,24-06-2022,UPI,Delivered
+12106,446,21-07-2023,COD,Delivered
+12107,210,27-08-2022,Wallet,Delivered
+12108,590,10-06-2022,Debit Card,Delivered
+12109,714,19-10-2022,Wallet,Delivered
+12110,302,17-03-2022,Wallet,Cancelled
+12111,909,13-03-2022,COD,Cancelled
+12112,223,17-04-2022,Credit Card,Delivered
+12113,734,02-07-2023,Debit Card,Delivered
+12114,3,03-04-2023,Credit Card,Delivered
+12115,990,21-11-2023,Wallet,Cancelled
+12116,518,27-06-2022,UPI,Delivered
+12117,93,28-04-2023,Wallet,Shipped
+12118,520,19-08-2023,Credit Card,Delivered
+12119,428,28-11-2023,Wallet,Delivered
+12120,493,11-02-2022,UPI,Shipped
+12121,235,04-10-2023,COD,Delivered
+12122,620,31-01-2022,Credit Card,Delivered
+12123,161,05-05-2022,Wallet,Delivered
+12124,721,01-06-2023,Credit Card,Delivered
+12125,752,14-03-2022,COD,Delivered
+12126,331,06-12-2022,Wallet,Delivered
+12127,333,18-02-2022,Wallet,Returned
+12128,50,03-07-2022,Credit Card,Delivered
+12129,523,10-04-2023,Credit Card,Shipped
+12130,863,30-03-2023,UPI,Delivered
+12131,668,11-02-2023,COD,Delivered
+12132,492,30-08-2023,UPI,Delivered
+12133,582,10-09-2022,Wallet,Delivered
+12134,681,16-06-2023,Credit Card,Delivered
+12135,272,11-05-2022,Wallet,Shipped
+12136,580,26-11-2022,Wallet,Delivered
+12137,867,12-11-2022,Debit Card,Delivered
+12138,252,30-01-2023,Debit Card,Delivered
+12139,560,28-12-2022,Wallet,Returned
+12140,696,26-06-2023,Credit Card,Cancelled
+12141,832,26-01-2022,Wallet,Delivered
+12142,699,04-07-2022,Debit Card,Delivered
+12143,90,19-05-2023,Credit Card,Delivered
+12144,446,06-05-2023,Wallet,Delivered
+12145,332,17-07-2022,COD,Delivered
+12146,139,10-02-2023,COD,Delivered
+12147,357,19-07-2023,Wallet,Delivered
+12148,601,11-07-2023,Credit Card,Delivered
+12149,274,11-01-2023,Wallet,Delivered
+12150,19,06-08-2023,Wallet,Shipped
+12151,983,26-07-2022,Debit Card,Shipped
+12152,311,10-09-2023,COD,Delivered
+12153,870,17-05-2023,Debit Card,Delivered
+12154,886,05-09-2023,Debit Card,Delivered
+12155,978,28-12-2022,Wallet,Delivered
+12156,154,16-10-2023,Debit Card,Returned
+12157,390,06-01-2023,COD,Delivered
+12158,260,08-04-2023,Debit Card,Cancelled
+12159,620,20-09-2022,COD,Shipped
+12160,883,12-05-2022,Debit Card,Delivered
+12161,797,30-11-2022,COD,Delivered
+12162,571,19-12-2022,Debit Card,Delivered
+12163,125,02-07-2022,Debit Card,Delivered
+12164,354,27-08-2022,Credit Card,Delivered
+12165,273,03-10-2023,COD,Delivered
+12166,619,13-03-2023,COD,Cancelled
+12167,811,03-03-2022,COD,Delivered
+12168,245,04-03-2023,UPI,Delivered
+12169,848,19-08-2023,Debit Card,Delivered
+12170,450,07-03-2023,COD,Delivered
+12171,930,23-08-2022,UPI,Delivered
+12172,247,30-07-2022,Credit Card,Cancelled
+12173,520,28-02-2022,COD,Delivered
+12174,141,10-01-2022,COD,Delivered
+12175,362,28-06-2023,UPI,Delivered
+12176,8,03-01-2022,Debit Card,Delivered
+12177,478,19-10-2022,Credit Card,Cancelled
+12178,352,22-01-2023,COD,Delivered
+12179,996,17-09-2023,Debit Card,Cancelled
+12180,495,03-04-2022,Credit Card,Delivered
+12181,606,16-05-2023,Wallet,Delivered
+12182,833,12-02-2022,Wallet,Delivered
+12183,427,02-08-2022,Credit Card,Delivered
+12184,39,27-05-2022,UPI,Delivered
+12185,593,21-10-2023,Credit Card,Returned
+12186,187,19-07-2022,Credit Card,Delivered
+12187,596,09-01-2022,UPI,Delivered
+12188,600,15-09-2023,UPI,Delivered
+12189,754,06-10-2022,Debit Card,Delivered
+12190,854,27-06-2023,Debit Card,Delivered
+12191,93,21-07-2023,UPI,Delivered
+12192,86,16-07-2023,Wallet,Delivered
+12193,44,12-08-2023,Wallet,Delivered
+12194,137,17-10-2022,Credit Card,Delivered
+12195,421,01-05-2022,COD,Delivered
+12196,74,02-04-2023,Credit Card,Delivered
+12197,548,04-06-2023,Credit Card,Delivered
+12198,613,23-02-2022,COD,Shipped
+12199,988,11-11-2022,UPI,Delivered
+12200,512,21-04-2023,Wallet,Delivered
+12201,156,31-10-2023,Credit Card,Delivered
+12202,938,26-09-2023,COD,Delivered
+12203,255,24-11-2023,Debit Card,Cancelled
+12204,171,13-08-2023,Credit Card,Delivered
+12205,981,31-07-2023,Wallet,Shipped
+12206,728,23-01-2022,UPI,Cancelled
+12207,170,28-12-2022,Credit Card,Delivered
+12208,764,24-01-2023,Credit Card,Delivered
+12209,872,04-04-2023,COD,Delivered
+12210,322,21-10-2022,Debit Card,Delivered
+12211,567,01-10-2022,Debit Card,Delivered
+12212,456,08-10-2022,UPI,Delivered
+12213,944,08-01-2022,Wallet,Delivered
+12214,603,15-08-2022,UPI,Delivered
+12215,790,02-06-2022,Credit Card,Delivered
+12216,613,02-06-2022,Credit Card,Cancelled
+12217,155,02-05-2022,Debit Card,Delivered
+12218,889,21-10-2023,Wallet,Cancelled
+12219,349,05-10-2022,COD,Delivered
+12220,451,27-08-2022,Wallet,Delivered
+12221,876,14-12-2022,Credit Card,Delivered
+12222,653,05-10-2022,COD,Delivered
+12223,173,22-01-2023,Wallet,Delivered
+12224,10,09-08-2023,Wallet,Delivered
+12225,740,30-01-2023,COD,Cancelled
+12226,265,20-05-2023,Credit Card,Delivered
+12227,438,03-09-2022,Wallet,Delivered
+12228,760,13-01-2022,COD,Cancelled
+12229,247,12-11-2023,Credit Card,Returned
+12230,667,24-02-2022,COD,Delivered
+12231,546,05-08-2023,COD,Delivered
+12232,499,29-11-2022,Wallet,Cancelled
+12233,129,02-01-2023,Credit Card,Delivered
+12234,672,13-02-2022,Wallet,Delivered
+12235,601,06-03-2022,UPI,Delivered
+12236,605,24-09-2022,UPI,Cancelled
+12237,327,23-04-2023,Credit Card,Delivered
+12238,753,22-03-2022,COD,Shipped
+12239,835,26-08-2023,Wallet,Delivered
+12240,980,21-08-2023,Wallet,Returned
+12241,404,21-12-2022,Credit Card,Delivered
+12242,629,27-02-2023,Credit Card,Delivered
+12243,606,20-05-2022,UPI,Cancelled
+12244,675,24-01-2022,Debit Card,Delivered
+12245,611,25-09-2023,Credit Card,Delivered
+12246,625,29-03-2023,Debit Card,Delivered
+12247,359,07-11-2022,Credit Card,Delivered
+12248,603,15-08-2022,COD,Delivered
+12249,858,11-07-2022,COD,Delivered
+12250,718,19-05-2023,UPI,Delivered
+12251,17,09-02-2022,UPI,Delivered
+12252,274,15-07-2023,Debit Card,Delivered
+12253,685,19-12-2022,Credit Card,Delivered
+12254,116,02-10-2022,Wallet,Returned
+12255,861,18-08-2022,UPI,Delivered
+12256,980,17-04-2022,Wallet,Delivered
+12257,693,05-04-2023,Wallet,Shipped
+12258,91,07-02-2023,Credit Card,Delivered
+12259,82,12-12-2022,Debit Card,Cancelled
+12260,324,29-06-2023,Credit Card,Cancelled
+12261,961,08-04-2022,UPI,Returned
+12262,114,03-02-2022,Wallet,Delivered
+12263,769,16-10-2023,Credit Card,Cancelled
+12264,58,02-12-2023,Credit Card,Returned
+12265,154,06-12-2022,Credit Card,Delivered
+12266,877,11-04-2022,UPI,Delivered
+12267,404,27-01-2023,Debit Card,Delivered
+12268,628,18-04-2022,Credit Card,Delivered
+12269,855,14-11-2022,UPI,Delivered
+12270,266,19-01-2022,Wallet,Delivered
+12271,315,11-08-2023,COD,Delivered
+12272,715,24-07-2022,UPI,Delivered
+12273,41,26-03-2022,COD,Delivered
+12274,105,23-04-2022,Credit Card,Delivered
+12275,901,01-06-2023,Credit Card,Shipped
+12276,890,08-08-2022,UPI,Delivered
+12277,193,08-09-2023,COD,Delivered
+12278,401,06-04-2023,Credit Card,Delivered
+12279,278,11-11-2022,Wallet,Delivered
+12280,354,28-04-2023,Debit Card,Returned
+12281,749,21-03-2023,Debit Card,Shipped
+12282,937,02-06-2023,Credit Card,Delivered
+12283,733,19-01-2022,COD,Shipped
+12284,580,03-02-2023,Credit Card,Delivered
+12285,709,04-08-2023,COD,Delivered
+12286,256,10-04-2023,Wallet,Delivered
+12287,651,01-12-2022,COD,Cancelled
+12288,824,19-02-2023,Credit Card,Delivered
+12289,947,24-05-2023,Wallet,Delivered
+12290,661,14-11-2022,UPI,Cancelled
+12291,99,02-08-2022,Debit Card,Delivered
+12292,588,28-03-2023,Credit Card,Delivered
+12293,282,10-03-2023,Credit Card,Cancelled
+12294,883,07-01-2023,Credit Card,Delivered
+12295,403,09-03-2022,Wallet,Delivered
+12296,109,01-06-2023,UPI,Delivered
+12297,700,28-11-2023,COD,Delivered
+12298,199,02-01-2023,UPI,Delivered
+12299,303,08-06-2023,Wallet,Delivered
+12300,327,22-04-2022,Credit Card,Delivered
+12301,154,20-08-2022,Debit Card,Delivered
+12302,552,06-02-2022,Credit Card,Cancelled
+12303,645,02-03-2022,COD,Shipped
+12304,405,04-11-2023,Debit Card,Delivered
+12305,462,19-04-2022,Credit Card,Delivered
+12306,132,03-06-2023,Debit Card,Shipped
+12307,791,04-06-2022,UPI,Delivered
+12308,874,16-05-2023,Wallet,Delivered
+12309,84,02-02-2022,Credit Card,Shipped
+12310,399,24-10-2023,COD,Returned
+12311,754,11-05-2023,UPI,Returned
+12312,628,26-11-2022,Credit Card,Returned
+12313,109,24-03-2023,UPI,Delivered
+12314,221,08-10-2023,COD,Delivered
+12315,904,03-09-2022,Credit Card,Delivered
+12316,553,22-08-2023,COD,Delivered
+12317,368,09-08-2022,Debit Card,Delivered
+12318,147,29-05-2022,COD,Returned
+12319,112,21-09-2023,Debit Card,Returned
+12320,615,08-06-2023,Credit Card,Delivered
+12321,558,18-11-2022,Debit Card,Returned
+12322,924,25-08-2023,Credit Card,Cancelled
+12323,494,25-04-2023,Credit Card,Delivered
+12324,505,31-01-2022,Wallet,Delivered
+12325,475,27-08-2022,Credit Card,Delivered
+12326,836,13-10-2023,Debit Card,Delivered
+12327,890,27-01-2022,Wallet,Delivered
+12328,271,16-11-2022,Wallet,Delivered
+12329,995,23-09-2023,Credit Card,Delivered
+12330,421,18-01-2023,COD,Delivered
+12331,897,30-12-2022,COD,Shipped
+12332,707,24-02-2023,Wallet,Delivered
+12333,367,05-03-2023,Credit Card,Returned
+12334,280,28-11-2023,COD,Delivered
+12335,283,04-11-2023,Credit Card,Delivered
+12336,40,05-08-2023,Credit Card,Shipped
+12337,959,06-07-2022,Wallet,Delivered
+12338,189,14-08-2023,Wallet,Delivered
+12339,164,10-08-2022,UPI,Returned
+12340,994,23-05-2022,COD,Delivered
+12341,989,17-07-2023,COD,Delivered
+12342,536,02-06-2022,COD,Delivered
+12343,536,17-11-2022,Debit Card,Cancelled
+12344,4,01-12-2022,Credit Card,Delivered
+12345,835,02-06-2022,Wallet,Delivered
+12346,290,29-12-2022,COD,Delivered
+12347,953,25-05-2022,UPI,Delivered
+12348,433,08-04-2023,COD,Returned
+12349,471,23-04-2022,Credit Card,Delivered
+12350,181,27-08-2023,Credit Card,Delivered
+12351,248,02-07-2023,Wallet,Delivered
+12352,628,08-02-2023,Debit Card,Cancelled
+12353,279,20-02-2023,Wallet,Delivered
+12354,877,09-01-2022,COD,Cancelled
+12355,581,11-08-2023,UPI,Cancelled
+12356,863,07-08-2023,Wallet,Delivered
+12357,254,28-11-2023,Debit Card,Delivered
+12358,181,02-12-2022,Wallet,Delivered
+12359,830,23-07-2022,Credit Card,Cancelled
+12360,681,30-03-2023,COD,Delivered
+12361,825,07-10-2022,COD,Delivered
+12362,509,20-03-2023,COD,Cancelled
+12363,761,29-09-2022,COD,Delivered
+12364,700,18-12-2022,COD,Delivered
+12365,566,29-10-2022,COD,Delivered
+12366,326,29-09-2023,UPI,Delivered
+12367,357,19-11-2022,Debit Card,Returned
+12368,825,08-10-2022,COD,Delivered
+12369,650,18-01-2022,Debit Card,Delivered
+12370,680,06-04-2022,COD,Cancelled
+12371,391,18-02-2023,Wallet,Delivered
+12372,615,12-05-2022,COD,Shipped
+12373,934,08-05-2022,Credit Card,Shipped
+12374,85,20-03-2022,UPI,Delivered
+12375,317,16-01-2022,Wallet,Delivered
+12376,212,09-01-2023,Wallet,Returned
+12377,515,07-02-2023,Credit Card,Delivered
+12378,384,28-11-2022,COD,Delivered
+12379,691,14-07-2023,UPI,Returned
+12380,342,26-04-2023,Wallet,Delivered
+12381,815,10-01-2022,UPI,Cancelled
+12382,964,15-12-2022,Wallet,Delivered
+12383,988,05-06-2023,COD,Delivered
+12384,844,21-10-2022,Wallet,Delivered
+12385,38,26-08-2022,Wallet,Shipped
+12386,511,30-05-2023,Debit Card,Delivered
+12387,420,18-09-2022,COD,Cancelled
+12388,751,06-01-2023,Credit Card,Delivered
+12389,169,24-03-2023,Credit Card,Delivered
+12390,965,28-06-2022,COD,Delivered
+12391,909,12-02-2022,Credit Card,Delivered
+12392,343,14-01-2023,COD,Delivered
+12393,826,02-11-2023,Credit Card,Delivered
+12394,306,12-10-2022,Debit Card,Delivered
+12395,542,16-02-2023,Credit Card,Shipped
+12396,702,14-07-2023,Wallet,Delivered
+12397,869,07-03-2023,COD,Shipped
+12398,537,03-01-2023,UPI,Delivered
+12399,112,30-07-2023,UPI,Delivered
+12400,411,25-03-2023,COD,Delivered
+12401,947,15-08-2022,Debit Card,Delivered
+12402,206,12-02-2022,Credit Card,Delivered
+12403,185,16-03-2022,Debit Card,Delivered
+12404,382,13-09-2023,UPI,Delivered
+12405,496,14-01-2022,COD,Returned
+12406,379,16-06-2022,COD,Delivered
+12407,47,13-09-2022,Debit Card,Cancelled
+12408,886,25-02-2023,Debit Card,Delivered
+12409,740,31-08-2022,Credit Card,Delivered
+12410,551,24-03-2022,Wallet,Delivered
+12411,528,11-07-2022,Wallet,Delivered
+12412,504,07-02-2023,Credit Card,Delivered
+12413,22,22-06-2023,Wallet,Delivered
+12414,213,07-09-2022,UPI,Delivered
+12415,310,03-07-2023,Wallet,Delivered
+12416,661,28-02-2022,Credit Card,Delivered
+12417,968,02-09-2023,Wallet,Delivered
+12418,753,23-02-2022,COD,Delivered
+12419,272,07-10-2022,Debit Card,Shipped
+12420,571,07-08-2023,UPI,Returned
+12421,799,17-04-2023,COD,Delivered
+12422,938,14-09-2023,COD,Cancelled
+12423,202,17-09-2022,Credit Card,Cancelled
+12424,32,27-04-2023,Debit Card,Delivered
+12425,443,10-04-2022,Debit Card,Delivered
+12426,162,17-07-2022,UPI,Shipped
+12427,767,05-03-2022,Credit Card,Delivered
+12428,254,12-05-2022,UPI,Shipped
+12429,521,18-04-2022,Wallet,Delivered
+12430,977,26-02-2023,COD,Delivered
+12431,651,12-12-2022,UPI,Delivered
+12432,480,19-02-2023,COD,Delivered
+12433,10,12-12-2022,Credit Card,Cancelled
+12434,726,30-09-2023,Wallet,Shipped
+12435,505,01-10-2022,Credit Card,Delivered
+12436,785,18-06-2022,Wallet,Delivered
+12437,836,19-11-2023,Wallet,Cancelled
+12438,560,05-03-2022,COD,Delivered
+12439,436,25-06-2023,Credit Card,Delivered
+12440,111,04-01-2023,Credit Card,Delivered
+12441,153,04-06-2023,UPI,Returned
+12442,635,28-05-2023,Credit Card,Returned
+12443,917,28-02-2022,UPI,Delivered
+12444,869,16-04-2022,Debit Card,Delivered
+12445,102,15-03-2023,Debit Card,Shipped
+12446,753,25-06-2023,Debit Card,Delivered
+12447,833,20-02-2022,Credit Card,Delivered
+12448,191,02-02-2023,Credit Card,Delivered
+12449,729,09-06-2022,UPI,Returned
+12450,563,01-12-2023,Wallet,Delivered
+12451,804,02-12-2022,UPI,Delivered
+12452,81,28-12-2022,Debit Card,Delivered
+12453,489,15-02-2022,UPI,Delivered
+12454,895,27-04-2023,Wallet,Delivered
+12455,88,22-07-2023,Credit Card,Delivered
+12456,194,23-10-2023,UPI,Delivered
+12457,104,19-05-2023,Debit Card,Delivered
+12458,783,12-11-2022,Debit Card,Delivered
+12459,96,23-07-2022,Credit Card,Delivered
+12460,423,26-01-2022,UPI,Shipped
+12461,891,08-09-2022,Wallet,Cancelled
+12462,198,31-10-2023,Credit Card,Delivered
+12463,1,18-04-2022,UPI,Returned
+12464,407,07-01-2022,COD,Delivered
+12465,378,29-08-2023,Debit Card,Shipped
+12466,167,16-10-2022,Wallet,Delivered
+12467,509,04-02-2023,Wallet,Delivered
+12468,638,27-06-2023,Wallet,Delivered
+12469,313,20-03-2022,Debit Card,Delivered
+12470,593,08-09-2023,UPI,Shipped
+12471,418,30-09-2022,Credit Card,Delivered
+12472,763,21-01-2022,UPI,Delivered
+12473,681,04-06-2023,Credit Card,Delivered
+12474,477,22-07-2022,Wallet,Returned
+12475,73,18-05-2023,UPI,Delivered
+12476,141,27-10-2023,Wallet,Delivered
+12477,582,23-04-2023,COD,Shipped
+12478,262,13-08-2022,Wallet,Delivered
+12479,340,25-06-2022,Wallet,Delivered
+12480,308,17-10-2023,Credit Card,Shipped
+12481,245,06-01-2022,COD,Delivered
+12482,515,17-10-2022,Wallet,Delivered
+12483,337,02-08-2022,Wallet,Delivered
+12484,575,13-10-2022,COD,Cancelled
+12485,561,16-06-2022,COD,Delivered
+12486,76,25-11-2022,UPI,Shipped
+12487,880,06-04-2023,Credit Card,Returned
+12488,175,07-09-2022,COD,Delivered
+12489,109,02-10-2023,COD,Returned
+12490,183,20-01-2023,Debit Card,Delivered
+12491,192,28-11-2023,COD,Delivered
+12492,65,18-05-2023,Credit Card,Returned
+12493,849,09-06-2022,Wallet,Shipped
+12494,963,02-11-2023,Wallet,Delivered
+12495,474,02-09-2022,Wallet,Delivered
+12496,783,09-02-2022,Wallet,Delivered
+12497,100,27-01-2023,Debit Card,Delivered
+12498,544,01-07-2023,COD,Delivered
+12499,864,10-12-2022,Wallet,Delivered
+12500,128,15-05-2023,UPI,Delivered
+12501,452,06-02-2022,Wallet,Delivered
+12502,914,02-02-2023,COD,Delivered
+12503,369,23-02-2023,Wallet,Cancelled
+12504,851,07-10-2022,Debit Card,Cancelled
+12505,43,06-11-2022,Credit Card,Delivered
+12506,884,21-04-2023,Credit Card,Delivered
+12507,419,09-09-2022,COD,Delivered
+12508,488,25-01-2023,Credit Card,Delivered
+12509,78,26-10-2022,Credit Card,Delivered
+12510,826,28-04-2023,UPI,Returned
+12511,801,30-10-2023,COD,Delivered
+12512,270,15-06-2023,COD,Delivered
+12513,674,02-03-2022,Credit Card,Delivered
+12514,701,13-09-2022,Credit Card,Delivered
+12515,759,01-09-2023,Credit Card,Delivered
+12516,900,14-06-2023,Debit Card,Shipped
+12517,728,18-08-2023,Wallet,Delivered
+12518,315,02-10-2023,Debit Card,Delivered
+12519,925,14-06-2022,COD,Delivered
+12520,851,27-10-2023,UPI,Shipped
+12521,902,03-01-2022,Wallet,Delivered
+12522,889,14-03-2022,UPI,Delivered
+12523,993,13-12-2022,COD,Cancelled
+12524,945,16-07-2022,COD,Delivered
+12525,168,01-05-2022,UPI,Delivered
+12526,339,05-01-2023,UPI,Delivered
+12527,193,27-12-2022,UPI,Delivered
+12528,453,26-11-2023,COD,Delivered
+12529,283,21-08-2023,Credit Card,Delivered
+12530,336,14-07-2023,UPI,Delivered
+12531,390,07-05-2022,Wallet,Delivered
+12532,1000,05-01-2023,COD,Delivered
+12533,525,23-06-2022,Debit Card,Delivered
+12534,240,26-07-2023,Debit Card,Delivered
+12535,832,16-04-2023,Wallet,Shipped
+12536,958,14-08-2022,Credit Card,Delivered
+12537,483,12-07-2023,UPI,Delivered
+12538,659,23-03-2022,COD,Delivered
+12539,716,11-10-2022,UPI,Delivered
+12540,592,26-10-2022,COD,Delivered
+12541,891,30-01-2023,Debit Card,Delivered
+12542,555,27-03-2022,UPI,Delivered
+12543,458,26-11-2023,Wallet,Delivered
+12544,89,24-04-2023,Credit Card,Returned
+12545,660,20-05-2023,Wallet,Delivered
+12546,95,28-02-2022,Credit Card,Delivered
+12547,452,21-02-2022,UPI,Delivered
+12548,428,18-04-2022,UPI,Delivered
+12549,151,29-12-2022,Credit Card,Delivered
+12550,514,25-05-2023,Debit Card,Delivered
+12551,376,15-07-2023,COD,Delivered
+12552,22,16-04-2023,Wallet,Returned
+12553,883,02-01-2023,Wallet,Cancelled
+12554,313,12-04-2023,Wallet,Delivered
+12555,997,27-03-2023,UPI,Delivered
+12556,840,05-09-2022,Wallet,Cancelled
+12557,519,27-11-2022,COD,Delivered
+12558,206,13-10-2023,COD,Delivered
+12559,952,25-09-2023,Credit Card,Delivered
+12560,375,28-10-2023,UPI,Delivered
+12561,451,06-07-2022,COD,Delivered
+12562,626,17-08-2022,Debit Card,Delivered
+12563,784,08-11-2023,UPI,Delivered
+12564,595,28-03-2022,UPI,Delivered
+12565,179,07-06-2022,COD,Returned
+12566,210,29-09-2023,Debit Card,Delivered
+12567,500,06-06-2022,Credit Card,Delivered
+12568,464,02-06-2022,COD,Delivered
+12569,840,28-05-2023,Debit Card,Returned
+12570,124,14-08-2023,UPI,Returned
+12571,993,27-11-2023,Debit Card,Delivered
+12572,113,16-06-2023,UPI,Delivered
+12573,12,05-07-2023,COD,Returned
+12574,126,21-11-2023,COD,Delivered
+12575,565,10-04-2022,Wallet,Delivered
+12576,331,18-02-2023,Wallet,Delivered
+12577,901,09-09-2023,Wallet,Delivered
+12578,283,17-10-2023,COD,Delivered
+12579,140,01-12-2023,Credit Card,Delivered
+12580,401,21-01-2023,COD,Delivered
+12581,902,17-10-2022,Debit Card,Shipped
+12582,97,18-07-2022,COD,Returned
+12583,517,20-07-2022,COD,Shipped
+12584,569,21-08-2023,UPI,Shipped
+12585,924,19-07-2022,UPI,Delivered
+12586,846,27-03-2022,UPI,Delivered
+12587,69,17-04-2023,COD,Delivered
+12588,118,02-08-2022,Credit Card,Cancelled
+12589,888,28-11-2023,Debit Card,Delivered
+12590,59,09-03-2022,Debit Card,Shipped
+12591,33,04-10-2022,Credit Card,Delivered
+12592,318,18-04-2023,Credit Card,Returned
+12593,50,22-02-2023,Debit Card,Delivered
+12594,880,17-11-2023,Wallet,Delivered
+12595,489,09-06-2023,UPI,Returned
+12596,19,23-11-2023,UPI,Delivered
+12597,726,30-07-2023,Debit Card,Cancelled
+12598,197,26-02-2022,Credit Card,Delivered
+12599,891,21-06-2022,Wallet,Delivered
+12600,450,30-06-2023,Debit Card,Delivered
+12601,990,11-06-2023,UPI,Delivered
+12602,559,29-04-2022,COD,Delivered
+12603,679,10-06-2022,Credit Card,Delivered
+12604,452,26-05-2023,COD,Delivered
+12605,289,05-09-2023,Debit Card,Delivered
+12606,141,01-04-2023,UPI,Delivered
+12607,84,07-06-2022,Wallet,Delivered
+12608,694,14-08-2022,COD,Returned
+12609,391,09-03-2023,Wallet,Delivered
+12610,591,07-08-2022,UPI,Delivered
+12611,215,14-07-2022,COD,Delivered
+12612,526,25-05-2023,Wallet,Delivered
+12613,215,19-07-2023,Wallet,Delivered
+12614,403,20-08-2023,COD,Shipped
+12615,128,04-01-2022,UPI,Cancelled
+12616,822,01-03-2023,Wallet,Delivered
+12617,477,01-10-2023,Debit Card,Delivered
+12618,760,16-03-2022,COD,Cancelled
+12619,404,26-08-2022,Credit Card,Delivered
+12620,29,10-01-2022,Credit Card,Delivered
+12621,792,11-01-2022,UPI,Delivered
+12622,338,11-07-2023,Debit Card,Delivered
+12623,831,03-10-2022,Wallet,Shipped
+12624,714,23-03-2022,Credit Card,Delivered
+12625,361,26-01-2023,UPI,Delivered
+12626,569,30-01-2023,Debit Card,Delivered
+12627,392,11-04-2023,Debit Card,Returned
+12628,218,22-01-2022,UPI,Cancelled
+12629,574,27-04-2022,UPI,Delivered
+12630,669,02-05-2022,Wallet,Delivered
+12631,202,13-02-2022,UPI,Delivered
+12632,17,15-05-2023,Wallet,Cancelled
+12633,322,19-07-2023,Wallet,Returned
+12634,518,29-07-2022,COD,Delivered
+12635,570,17-09-2023,Debit Card,Returned
+12636,325,22-02-2022,Debit Card,Delivered
+12637,412,28-03-2022,Debit Card,Delivered
+12638,318,22-11-2023,COD,Delivered
+12639,681,01-08-2023,Wallet,Delivered
+12640,965,14-04-2022,Wallet,Delivered
+12641,82,29-07-2022,UPI,Delivered
+12642,474,04-11-2023,COD,Delivered
+12643,468,20-06-2023,UPI,Delivered
+12644,425,21-01-2023,COD,Delivered
+12645,945,01-09-2022,UPI,Delivered
+12646,731,09-11-2023,Credit Card,Delivered
+12647,689,30-05-2022,Debit Card,Delivered
+12648,204,14-09-2023,Debit Card,Delivered
+12649,583,22-06-2022,Wallet,Cancelled
+12650,387,01-01-2023,Credit Card,Returned
+12651,778,18-11-2022,Debit Card,Cancelled
+12652,98,08-09-2023,Wallet,Delivered
+12653,345,14-06-2022,Credit Card,Delivered
+12654,803,07-01-2023,Debit Card,Delivered
+12655,208,07-10-2022,UPI,Delivered
+12656,514,26-10-2022,COD,Delivered
+12657,636,22-02-2022,Credit Card,Delivered
+12658,792,04-08-2023,Wallet,Cancelled
+12659,586,29-09-2022,Credit Card,Delivered
+12660,166,06-05-2023,Wallet,Shipped
+12661,22,03-01-2023,Credit Card,Cancelled
+12662,154,06-02-2022,Wallet,Delivered
+12663,939,22-08-2022,Debit Card,Returned
+12664,439,27-11-2023,UPI,Delivered
+12665,295,17-05-2023,Debit Card,Cancelled
+12666,219,30-07-2023,UPI,Delivered
+12667,669,13-03-2023,Debit Card,Returned
+12668,495,19-11-2022,Debit Card,Delivered
+12669,230,19-05-2022,Credit Card,Shipped
+12670,20,12-10-2022,COD,Delivered
+12671,987,11-11-2023,Wallet,Delivered
+12672,553,21-11-2022,Wallet,Returned
+12673,950,18-05-2023,Wallet,Cancelled
+12674,148,06-02-2022,UPI,Delivered
+12675,108,13-05-2023,Wallet,Delivered
+12676,403,28-07-2022,Wallet,Delivered
+12677,596,14-02-2023,Credit Card,Shipped
+12678,483,23-08-2022,Debit Card,Returned
+12679,367,22-03-2022,Wallet,Cancelled
+12680,834,31-10-2022,COD,Delivered
+12681,414,06-01-2022,Wallet,Delivered
+12682,309,16-08-2022,UPI,Delivered
+12683,802,17-03-2023,UPI,Cancelled
+12684,918,30-01-2022,UPI,Delivered
+12685,835,09-03-2023,Wallet,Cancelled
+12686,134,19-10-2022,Credit Card,Delivered
+12687,719,18-04-2022,COD,Delivered
+12688,283,17-06-2023,Wallet,Delivered
+12689,778,13-05-2022,Credit Card,Delivered
+12690,73,25-07-2023,Credit Card,Delivered
+12691,481,13-01-2022,Wallet,Delivered
+12692,352,14-06-2023,Wallet,Delivered
+12693,560,28-01-2022,Credit Card,Cancelled
+12694,326,09-01-2023,Credit Card,Delivered
+12695,745,24-05-2022,Credit Card,Delivered
+12696,443,30-07-2023,Wallet,Delivered
+12697,100,29-03-2022,Credit Card,Delivered
+12698,59,21-10-2023,UPI,Returned
+12699,508,10-11-2023,Wallet,Delivered
+12700,258,19-05-2022,UPI,Returned
+12701,413,03-03-2022,Debit Card,Delivered
+12702,452,13-07-2023,Wallet,Delivered
+12703,65,05-05-2023,Debit Card,Delivered
+12704,595,03-01-2022,Credit Card,Delivered
+12705,154,15-09-2022,Credit Card,Delivered
+12706,985,08-12-2022,COD,Returned
+12707,266,07-10-2022,Credit Card,Delivered
+12708,821,06-12-2022,Debit Card,Delivered
+12709,79,02-05-2022,Credit Card,Delivered
+12710,315,16-05-2022,Wallet,Delivered
+12711,662,31-10-2022,Credit Card,Delivered
+12712,947,14-09-2022,COD,Delivered
+12713,560,01-04-2022,Credit Card,Delivered
+12714,917,24-06-2023,Debit Card,Delivered
+12715,891,27-06-2022,Debit Card,Delivered
+12716,248,28-07-2023,Credit Card,Cancelled
+12717,790,13-10-2023,Debit Card,Delivered
+12718,868,24-11-2023,Debit Card,Delivered
+12719,610,23-11-2022,COD,Shipped
+12720,414,02-10-2022,Wallet,Delivered
+12721,25,03-12-2022,COD,Delivered
+12722,284,31-10-2022,UPI,Delivered
+12723,449,10-01-2023,COD,Delivered
+12724,881,18-02-2022,Credit Card,Delivered
+12725,301,04-06-2022,Wallet,Shipped
+12726,68,07-10-2022,Credit Card,Returned
+12727,7,24-11-2023,UPI,Returned
+12728,817,08-12-2022,Wallet,Returned
+12729,137,13-10-2023,Debit Card,Delivered
+12730,164,24-11-2023,COD,Delivered
+12731,83,06-10-2022,Credit Card,Cancelled
+12732,897,23-05-2023,UPI,Shipped
+12733,650,15-06-2022,Debit Card,Delivered
+12734,420,03-08-2022,COD,Shipped
+12735,73,15-10-2023,Debit Card,Delivered
+12736,237,27-05-2022,COD,Delivered
+12737,46,07-10-2023,Wallet,Delivered
+12738,618,10-10-2023,Debit Card,Delivered
+12739,928,02-01-2023,Debit Card,Delivered
+12740,800,01-06-2023,Debit Card,Delivered
+12741,262,25-04-2022,Wallet,Delivered
+12742,176,26-09-2022,UPI,Delivered
+12743,166,29-09-2022,COD,Delivered
+12744,657,01-12-2022,Debit Card,Shipped
+12745,842,30-03-2022,Wallet,Delivered
+12746,370,22-09-2022,UPI,Delivered
+12747,795,13-04-2023,COD,Delivered
+12748,54,17-08-2023,Wallet,Delivered
+12749,690,18-05-2023,COD,Returned
+12750,419,25-10-2023,Debit Card,Delivered
+12751,756,20-09-2023,UPI,Returned
+12752,507,10-12-2022,Wallet,Delivered
+12753,341,24-06-2022,UPI,Delivered
+12754,127,25-10-2023,Debit Card,Delivered
+12755,409,09-11-2022,UPI,Delivered
+12756,924,17-11-2023,UPI,Delivered
+12757,367,25-09-2022,Credit Card,Delivered
+12758,271,19-01-2023,UPI,Delivered
+12759,644,22-04-2022,COD,Delivered
+12760,605,05-10-2023,Wallet,Shipped
+12761,379,15-12-2022,Credit Card,Delivered
+12762,73,10-10-2023,Wallet,Delivered
+12763,923,27-05-2022,Wallet,Delivered
+12764,922,19-07-2022,Debit Card,Delivered
+12765,915,07-12-2022,Debit Card,Delivered
+12766,248,17-03-2023,Credit Card,Cancelled
+12767,860,13-12-2022,Debit Card,Shipped
+12768,785,19-05-2023,Debit Card,Delivered
+12769,43,10-03-2023,Debit Card,Delivered
+12770,377,01-07-2023,Wallet,Delivered
+12771,41,25-08-2022,Credit Card,Delivered
+12772,170,29-09-2023,Wallet,Delivered
+12773,946,12-06-2022,COD,Delivered
+12774,212,16-11-2023,Wallet,Delivered
+12775,493,11-03-2022,COD,Delivered
+12776,680,06-09-2022,UPI,Delivered
+12777,39,08-05-2022,UPI,Delivered
+12778,369,18-12-2022,COD,Delivered
+12779,757,25-07-2022,COD,Delivered
+12780,151,23-06-2023,Wallet,Cancelled
+12781,111,09-06-2022,COD,Delivered
+12782,480,06-03-2023,Credit Card,Returned
+12783,436,23-09-2023,UPI,Delivered
+12784,47,31-01-2022,UPI,Delivered
+12785,575,07-09-2022,COD,Delivered
+12786,737,07-08-2023,Debit Card,Delivered
+12787,366,25-09-2023,Debit Card,Shipped
+12788,69,19-01-2023,COD,Delivered
+12789,299,13-11-2023,Credit Card,Delivered
+12790,944,01-11-2022,Debit Card,Delivered
+12791,802,01-01-2022,COD,Shipped
+12792,296,18-10-2022,Credit Card,Delivered
+12793,203,31-03-2023,Credit Card,Shipped
+12794,61,09-01-2022,Wallet,Shipped
+12795,946,24-12-2022,Credit Card,Delivered
+12796,963,19-01-2023,Debit Card,Cancelled
+12797,830,28-04-2022,Debit Card,Shipped
+12798,314,09-05-2022,COD,Delivered
+12799,161,29-11-2023,COD,Delivered
+12800,331,11-04-2022,Credit Card,Delivered
+12801,528,08-02-2022,UPI,Delivered
+12802,338,07-06-2022,Wallet,Delivered
+12803,606,03-02-2022,UPI,Delivered
+12804,304,24-05-2023,Credit Card,Delivered
+12805,503,23-08-2023,Credit Card,Delivered
+12806,650,28-09-2023,UPI,Delivered
+12807,338,20-09-2023,Wallet,Cancelled
+12808,550,25-01-2022,UPI,Returned
+12809,639,21-02-2022,COD,Delivered
+12810,275,22-07-2023,Debit Card,Delivered
+12811,164,11-06-2023,COD,Delivered
+12812,443,01-05-2023,Debit Card,Shipped
+12813,319,08-10-2022,Credit Card,Delivered
+12814,589,21-10-2022,Wallet,Delivered
+12815,504,23-12-2022,UPI,Shipped
+12816,686,13-06-2022,Wallet,Shipped
+12817,387,11-10-2022,UPI,Returned
+12818,970,06-09-2022,COD,Returned
+12819,870,01-10-2023,COD,Delivered
+12820,833,12-11-2022,UPI,Delivered
+12821,888,12-12-2022,Wallet,Delivered
+12822,603,15-05-2023,UPI,Delivered
+12823,750,10-10-2022,Credit Card,Cancelled
+12824,776,02-07-2023,COD,Delivered
+12825,691,11-08-2022,Credit Card,Delivered
+12826,494,26-07-2022,COD,Shipped
+12827,490,16-12-2022,COD,Delivered
+12828,721,17-04-2022,Debit Card,Shipped
+12829,73,16-10-2022,Credit Card,Shipped
+12830,509,05-10-2023,Credit Card,Delivered
+12831,390,05-11-2022,Debit Card,Delivered
+12832,619,14-05-2023,Wallet,Delivered
+12833,857,12-01-2023,Credit Card,Delivered
+12834,295,22-05-2022,UPI,Delivered
+12835,369,26-07-2023,Debit Card,Delivered
+12836,956,21-09-2022,Credit Card,Shipped
+12837,796,27-07-2022,Wallet,Delivered
+12838,865,09-03-2022,Credit Card,Returned
+12839,694,14-12-2022,COD,Delivered
+12840,549,27-03-2022,UPI,Delivered
+12841,649,15-06-2023,Debit Card,Shipped
+12842,850,09-12-2022,COD,Delivered
+12843,568,01-03-2023,Wallet,Delivered
+12844,187,25-07-2022,COD,Delivered
+12845,853,05-02-2023,COD,Returned
+12846,770,27-12-2022,Wallet,Delivered
+12847,445,05-05-2022,COD,Delivered
+12848,570,02-01-2022,Debit Card,Delivered
+12849,363,21-11-2022,Credit Card,Shipped
+12850,123,02-05-2023,COD,Shipped
+12851,188,25-08-2022,Debit Card,Delivered
+12852,742,14-01-2022,Credit Card,Cancelled
+12853,680,12-06-2023,Credit Card,Delivered
+12854,420,25-05-2023,COD,Delivered
+12855,626,20-05-2022,Debit Card,Delivered
+12856,252,12-10-2023,COD,Delivered
+12857,619,28-05-2022,Wallet,Delivered
+12858,549,19-07-2022,Credit Card,Delivered
+12859,335,04-06-2022,COD,Delivered
+12860,92,26-11-2022,Credit Card,Returned
+12861,530,01-08-2022,Debit Card,Delivered
+12862,866,03-11-2022,UPI,Delivered
+12863,63,04-05-2022,COD,Shipped
+12864,662,15-10-2022,COD,Delivered
+12865,512,01-01-2022,Credit Card,Delivered
+12866,139,13-04-2023,Debit Card,Returned
+12867,698,10-09-2022,Wallet,Delivered
+12868,185,05-10-2022,Debit Card,Delivered
+12869,205,24-10-2023,COD,Delivered
+12870,772,29-06-2023,Wallet,Cancelled
+12871,214,12-08-2022,Debit Card,Delivered
+12872,256,06-07-2022,UPI,Cancelled
+12873,135,25-10-2023,Credit Card,Delivered
+12874,573,10-04-2022,Debit Card,Delivered
+12875,875,24-03-2023,Debit Card,Cancelled
+12876,822,27-06-2023,UPI,Delivered
+12877,88,07-12-2022,COD,Delivered
+12878,836,20-01-2022,Credit Card,Delivered
+12879,988,17-10-2023,Debit Card,Cancelled
+12880,207,11-02-2022,Wallet,Delivered
+12881,129,14-11-2023,Debit Card,Delivered
+12882,823,30-05-2022,Credit Card,Delivered
+12883,3,20-06-2022,Debit Card,Shipped
+12884,974,12-05-2022,UPI,Delivered
+12885,934,04-08-2023,Debit Card,Delivered
+12886,754,26-07-2023,Debit Card,Delivered
+12887,121,09-01-2022,Wallet,Delivered
+12888,385,12-09-2022,UPI,Delivered
+12889,614,24-06-2023,UPI,Delivered
+12890,38,09-02-2023,Debit Card,Delivered
+12891,341,29-03-2023,Wallet,Returned
+12892,925,20-09-2022,Debit Card,Cancelled
+12893,645,08-04-2023,Debit Card,Delivered
+12894,714,04-11-2022,Credit Card,Cancelled
+12895,860,28-06-2022,Credit Card,Delivered
+12896,21,18-02-2023,Wallet,Cancelled
+12897,242,18-06-2023,COD,Delivered
+12898,455,15-11-2023,Credit Card,Delivered
+12899,963,09-02-2022,COD,Shipped
+12900,621,25-05-2022,UPI,Cancelled
+12901,303,26-09-2022,Credit Card,Delivered
+12902,596,17-10-2022,Credit Card,Delivered
+12903,595,19-06-2023,Wallet,Delivered
+12904,803,15-02-2022,COD,Delivered
+12905,964,07-07-2023,Credit Card,Delivered
+12906,69,23-07-2023,Credit Card,Delivered
+12907,129,19-02-2022,Wallet,Cancelled
+12908,196,20-09-2023,Wallet,Delivered
+12909,140,14-04-2023,COD,Delivered
+12910,444,06-02-2022,UPI,Delivered
+12911,283,20-05-2023,UPI,Delivered
+12912,312,07-10-2022,Debit Card,Delivered
+12913,746,06-02-2023,Credit Card,Delivered
+12914,535,09-08-2022,COD,Returned
+12915,665,21-01-2023,Credit Card,Cancelled
+12916,277,28-06-2022,COD,Delivered
+12917,61,04-12-2022,COD,Delivered
+12918,319,02-01-2023,COD,Delivered
+12919,890,06-06-2022,Credit Card,Cancelled
+12920,52,13-03-2022,Wallet,Returned
+12921,856,07-08-2023,Credit Card,Delivered
+12922,153,05-05-2022,COD,Delivered
+12923,749,03-03-2023,Debit Card,Cancelled
+12924,311,21-02-2022,UPI,Delivered
+12925,814,25-05-2022,COD,Delivered
+12926,544,25-03-2023,Debit Card,Shipped
+12927,567,25-05-2022,Wallet,Returned
+12928,864,12-08-2022,COD,Delivered
+12929,389,28-07-2023,Debit Card,Delivered
+12930,548,06-06-2022,COD,Delivered
+12931,622,15-04-2022,Credit Card,Delivered
+12932,177,01-05-2022,Debit Card,Delivered
+12933,362,30-10-2022,Credit Card,Delivered
+12934,314,14-10-2022,Credit Card,Returned
+12935,807,15-11-2023,Debit Card,Cancelled
+12936,848,14-04-2022,UPI,Delivered
+12937,97,16-07-2023,Debit Card,Delivered
+12938,881,23-02-2023,UPI,Delivered
+12939,213,07-08-2022,COD,Delivered
+12940,829,07-06-2023,COD,Delivered
+12941,137,22-01-2023,Debit Card,Delivered
+12942,6,04-10-2022,COD,Cancelled
+12943,109,23-12-2022,Wallet,Delivered
+12944,547,03-02-2022,Credit Card,Shipped
+12945,39,24-08-2023,Credit Card,Shipped
+12946,662,30-12-2022,UPI,Delivered
+12947,425,28-05-2022,COD,Delivered
+12948,630,08-08-2023,UPI,Shipped
+12949,261,03-12-2022,Credit Card,Shipped
+12950,426,12-05-2023,Credit Card,Delivered
+12951,87,17-12-2022,COD,Delivered
+12952,465,22-01-2023,Wallet,Delivered
+12953,76,03-07-2022,Wallet,Shipped
+12954,471,13-04-2022,COD,Delivered
+12955,976,02-08-2023,COD,Delivered
+12956,963,26-07-2023,UPI,Cancelled
+12957,414,11-04-2022,COD,Delivered
+12958,825,13-11-2023,Wallet,Delivered
+12959,895,27-07-2023,COD,Delivered
+12960,726,18-10-2022,UPI,Cancelled
+12961,457,05-03-2023,UPI,Delivered
+12962,285,08-06-2023,UPI,Delivered
+12963,239,19-09-2023,UPI,Delivered
+12964,677,31-07-2023,Debit Card,Delivered
+12965,599,01-04-2023,COD,Delivered
+12966,653,19-07-2023,Credit Card,Delivered
+12967,672,17-04-2022,COD,Delivered
+12968,558,09-09-2023,Debit Card,Cancelled
+12969,372,06-11-2023,UPI,Cancelled
+12970,495,10-01-2022,Debit Card,Delivered
+12971,624,28-03-2022,Wallet,Delivered
+12972,919,25-04-2023,Wallet,Delivered
+12973,45,30-12-2022,COD,Cancelled
+12974,401,20-11-2022,COD,Delivered
+12975,247,20-02-2023,Credit Card,Delivered
+12976,616,22-03-2022,Credit Card,Delivered
+12977,597,24-10-2022,Wallet,Delivered
+12978,450,09-01-2023,UPI,Delivered
+12979,485,09-02-2023,Debit Card,Delivered
+12980,646,07-05-2023,Credit Card,Delivered
+12981,620,13-07-2023,Credit Card,Returned
+12982,18,21-01-2023,UPI,Delivered
+12983,606,04-03-2023,UPI,Delivered
+12984,662,26-08-2022,COD,Delivered
+12985,758,22-10-2022,Debit Card,Delivered
+12986,289,23-02-2022,UPI,Delivered
+12987,414,28-02-2023,Credit Card,Delivered
+12988,721,24-04-2022,Credit Card,Delivered
+12989,638,07-07-2023,Wallet,Delivered
+12990,235,25-07-2023,UPI,Delivered
+12991,416,10-04-2022,COD,Delivered
+12992,938,10-03-2023,Debit Card,Cancelled
+12993,499,17-10-2023,COD,Delivered
+12994,974,22-01-2022,Credit Card,Delivered
+12995,634,14-04-2023,COD,Delivered
+12996,650,12-09-2023,Credit Card,Delivered
+12997,115,11-11-2022,Credit Card,Delivered
+12998,932,16-09-2022,Credit Card,Delivered
+12999,674,26-02-2022,Credit Card,Returned
+13000,713,07-07-2022,Credit Card,Delivered
