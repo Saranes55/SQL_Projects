@@ -16,7 +16,48 @@ SELECT * FROM CUSTOMERS LIMIT 5;
 
 */
 
-#DATA CLEANING:
+SELECT * FROM PRODUCTS LIMIT 5;
+
+/*
+    Product_id | Product_name | Categoey    | Price
+
+    1	       | Product_1	  | Fashion	    | 26062
+    2	       | Product_2	  | Grocery	    | 39542
+    3	       | Product_3	  | Electronics	| 99358
+    4	       | Product_4	  | Toys	    | 39162
+    5	       | Product_5	  | Toys	    | 80917
+
+*/
+
+SELECT * FROM ORDERS LIMIT 5;
+
+/*
+
+    Order_id | Customer_id | Order_date | Payment_method | Order_status
+
+    10001	 | 937	       | 29-04-2022	| Credit Card	 | Delivered
+    10002	 | 902	       | 29-01-2023	| Wallet	     | Returned
+    10003	 | 25	       | 08-03-2023	| Debit Card	 | Cancelled
+    10004	 | 653	       | 14-12-2022	| Debit Card	 | Delivered
+    10005	 | 117	       | 14-09-2023	| Wallet	     | Delivered
+
+*/
+
+SELECT * FROM ORDER_ITEMS LIMIT 5;
+
+/*
+
+    Item_id | Order_id | Product_id | Quantity
+
+    1	    | 10535	   | 145	    | 3
+    2	    | 10210	   | 127	    | 3
+    3	    | 12094	   | 226	    | 1
+    4	    | 11564	   | 427	    | 1
+    5	    | 10026	   | 71	        | 3
+
+*/
+
+#-DATA CLEANING:
 
 -- 1. ROW COUNT CHECK
 
@@ -113,9 +154,9 @@ ALTER TABLE PRODUCTS
 MODIFY PRICE DECIMAL(10,2) CHECK (PRICE > 0);
 
 
-#🧱 BASIC BUSINESS INSIGHTS (JOIN + GROUP BY)
+#-🧱 BASIC BUSINESS INSIGHTS (JOIN + GROUP BY)
 
-#1.List all customers along with their total number of orders.
+#1. List all customers along with their total number of orders.
 ---#(Include customers who have never placed an order.)
 
 SELECT 
