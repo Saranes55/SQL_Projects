@@ -154,7 +154,7 @@ ALTER TABLE PRODUCTS
 MODIFY PRICE DECIMAL(10,2) CHECK (PRICE > 0);
 
 
-#-🧱 BASIC BUSINESS INSIGHTS (JOIN + GROUP BY)
+🧱 BASIC BUSINESS INSIGHTS (JOIN + GROUP BY)
 
 #1. List all customers along with their total number of orders.
 ---#(Include customers who have never placed an order.)
@@ -256,7 +256,7 @@ ORDER BY
     TOTAL_REVENUE DESC;
 
 
-#📆 DATE & TIME ANALYSIS (DATE FUNCTIONS).
+📆 DATE & TIME ANALYSIS (DATE FUNCTIONS).
 
 #7.	Calculate total revenue month-by-month.
 
@@ -362,7 +362,7 @@ ORDER BY
     DEMAND_STATUS;
     
     
-#🔍 SUBQUERIES (INTERMEDIATE LEVEL):
+🔍 SUBQUERIES (INTERMEDIATE LEVEL):
 
 #13. Find customers whose total spending is above the average customer spend.
 
@@ -472,7 +472,7 @@ AND CUSTOMER_ID IN (
 ORDER BY CUSTOMER_ID;
 
 
-#🧠 WINDOW FUNCTIONS (ADVANCED ANALYTICS):
+🧠 WINDOW FUNCTIONS (ADVANCED ANALYTICS):
 
 #17. Rank products based on total revenue generated.
 
@@ -541,7 +541,7 @@ ORDER BY
      SALES_MONTH;
 
 
-#🧩 COMMON TABLE EXPRESSIONS (CTEs):
+🧩 COMMON TABLE EXPRESSIONS (CTEs):
 
 #20. Identify top 3 products per category using a CTE and window function.  
 
