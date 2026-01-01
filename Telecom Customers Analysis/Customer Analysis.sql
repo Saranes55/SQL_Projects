@@ -1,7 +1,7 @@
 CREATE DATABASE TELECOM_PORTFOLIO;
 USE TELECOM_PORTFOLIO;
 
--- Import Datasets Tables : Orders, Product, customers, Customers usage.
+-- Import Datasets Tables : Orders, Products, customers, Customers usage.
 
 SELECT * FROM ORDERS LIMIT 5;
 
@@ -13,10 +13,51 @@ Order_id | Customer_id | Product_id | Order_date | Quantity
 2        | 548	       | 101	      | 16-02-2024 | 2
 3        | 612	       | 108	      | 04-09-2024 | 1
 4        | 915	       | 108	      | 15-11-2025 | 2
-5	       | 681	       | 107	      | 11-06-2025 | 2
+5	     | 681	       | 107	      | 11-06-2025 | 2
 
 */
 
+SELECT * FROM PRODUCTS LIMIT 5;	
+
+/*
+
+Product_id | Product_name   | Monthly_price | Data_gb
+
+101	       | Prepaid Basic	| 5.99	        | 5
+102	       | Prepaid Plus	| 9.99	        | 12
+103	       | Postpaid Silver| 15.99	        | 25
+104	       | Postpaid Gold	| 29.99	        | 50
+105	       | Family Plan	| 39.99	        | 80
+
+*/
+
+SELECT * FROM CUSTOMERS LIMIT 5;
+
+/*
+
+Customer_id | Name              | Age | City            | Join_date 
+
+1	        | Oscar Williams	| 58  | Chandlerborough	| 05-08-2025
+2	        | Rebecca Rivera	| 25  | Vaughnberg	    | 13-08-2024
+3	        | Dawn Mcpherson	| 19  | Cantubury	    | 28-06-2023
+4	        | John Mitchell	    | 65  | New Mark	    | 23-06-2022
+5	        | Miss Terri Smith	| 35  | Jennifershire	| 20-06-2025
+
+*/
+
+SELECT * FROM CUSTOMERS_usage LIMIT 5;
+
+/*
+
+Usage_id | Customer_id |   Month    | Data_used_gb | Call_minutes 
+
+1	     | 1029	       | 01-05-2025	| 27.96	       | 896
+2	     | 1067        | 01-07-2025	| 89.52	       | 488
+3	     | 626	       | 01-06-2025	| 60.75	       | 198
+4	     | 626	       | 01-08-2025	| 39.21	       | 660
+5	     | 185	       | 01-03-2025	| 60.66	       | 177
+
+*/
 
 
 --SECTION 1 – CUSTOMER ANALYSIS
