@@ -37,7 +37,7 @@ Contains item-level order details. - order_item_id - order_id - product_id - qua
    -	✅ DATE FUNCTIONS
    -	✅ CASE STATEMENTS
 
-## 📊 Business Questions Answered
+## 📊 Business Analysis Questions
 **Some key questions answered in this project:**
    -	Top 5 best-selling products by revenue and quantity
    -	Monthly revenue trends and growth rate
