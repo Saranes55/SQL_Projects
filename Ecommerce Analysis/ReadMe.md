@@ -64,10 +64,10 @@ ecommerce-sql-portfolio/
 │   └── create_tables.sql
 │
 ├── queries/
-│   ├── 01_basic_joins.sql
-│   ├── 02_sales_analysis.sql
-│   ├── 03_customer_analysis.sql
-│   ├── 04_date_analysis.sql
+│   ├── 01_joins + group_by.sql
+│   ├── 02_date_function.sql
+│   ├── 03_aggragation + case_statements.sql
+│   ├── 04_subqueries.sql
 │   ├── 05_window_functions.sql
 │   ├── 06_cte_analysis.sql
 │   └── 07_advanced_business_queries.sql
