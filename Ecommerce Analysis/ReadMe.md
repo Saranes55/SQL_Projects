@@ -89,7 +89,7 @@ ecommerce-sql-portfolio/
    3.	Run queries from the queries/ folder in order
    4.	Review insights and results
 
-## 📈 Key Insights (Sample)
+## 📈 Key Insights 
    -	A small percentage of customers contribute the majority of revenue
    -	Sales peak during specific months indicating seasonality
    -	Certain cities generate significantly higher AOV
