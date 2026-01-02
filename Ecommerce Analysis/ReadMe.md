@@ -83,7 +83,7 @@ ecommerce-sql-portfolio/
 
 
 
-## 🚀 How to Run This Project
+## ▶️ How to Run This Project
    1.	Import CSV files into MySQL
    2.	Execute schema/create_tables.sql
    3.	Run queries from the queries/ folder in order
