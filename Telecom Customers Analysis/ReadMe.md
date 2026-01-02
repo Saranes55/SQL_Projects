@@ -1,4 +1,4 @@
-# 📊 Telecom Customer & Revenue Analysis 
+# 📡 Telecom Customer & 📊 Revenue Analysis 
 
 ## 📌  Project Overview
 This project is a MySQL-based SQL portfolio showcasing real-world business analysis queries across customer behavior, revenue, churn, and product performance.
@@ -14,10 +14,10 @@ The queries are designed at an intermediate to advanced level, reflecting scenar
 
 ## 🗂 Dataset Description
 The project uses a relational database structure containing multiple business entities such as:
-  - Customers – customer profile, age, location, activation date
-  - Orders – order details, order date, quantities
-  - Products – product details, pricing, and data plan
-  - customers_usage – usage_id, customer_id, month, data_used_gb, call_minutes
+  - **Customers** – customer profile, age, location, activation date
+  - **Orders** – order details, order date, quantities
+  - **Products** – product details, pricing, and data plan
+  - **customers_usage** – usage_id, customer_id, month, data_used_gb, call_minutes
 
 ## 🛠 SQL Skills Demonstrated
 **This project highlights the following SQL skills:**
@@ -46,6 +46,52 @@ The project uses a relational database structure containing multiple business en
 4. Compute Average Order Value (AOV) month-wise
 5. Determine top 5 revenue-generating cities
 
+### SEC-3. Churn & Retention
+1. Calculate monthly churn rate
+2. Estimate Customer Lifetime Value (CLV)
+
+### SEC-4.Product Performance
+1. Rank products within each category by revenue
+2. Calculate product-wise pricing, orders, and revenue contribution
+3. Identify products with declining month-over-month sales
+
+## 📁 Project Structure
+```
+mysql-portfolio/
+│
+├── dataset/
+│   ├── customers.sql
+│   ├── orders.sql
+│   ├── products.sql
+│   └── customer_usage.sql
+│
+├── queries/
+│   ├── customer_analysis.sql
+│   ├── revenue_sales.sql
+│   ├── churn_retention.sql
+│   └── product_performance.sql
+│
+├── README.md
+```
+
+## ▶️ How to Run This Project
+
+1. Install **MySQL Server**
+2. Create a new database
+3. Import dataset tables from the dataset/ folder
+4. Execute SQL scripts from the queries/ folder
+5. Review outputs for business insights
+
+## 🔑 Key Insights
+  - A small percentage of customers contribute a large share of total revenue
+  - High-usage customers show stronger retention patterns
+  - Certain products generate revenue but suffer declining sales trends
+  - Customer churn can be detected early using inactivity signals
+  - City-level revenue analysis helps identify strong regional markets
+
+## 🚀 Conclusion
+This project demonstrates how SQL can transform raw transactional data into actionable business insights.
+It reflects real-world analytics tasks and strengthens skills required for Data Analyst / Business Analyst roles.
 
 
 
