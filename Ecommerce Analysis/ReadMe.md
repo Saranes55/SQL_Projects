@@ -2,11 +2,9 @@
 
 ## 📌 Project Overview
 
-This project demonstrates practical SQL skills using MySQL through a complete e-commerce data analysis portfolio.
-
-It focuses on real-world business questions such as sales performance, customer behavior, revenue trends, and retention analysis.
-
-All analysis is done using ONLY MySQL queries, making this project ideal for Data Analyst / Business Analyst roles.
+- This project demonstrates practical SQL skills using MySQL through a complete e-commerce data analysis portfolio.
+- It focuses on real-world business questions such as sales performance, customer behavior, revenue trends, and retention analysis.
+- All analysis is done using ONLY MySQL queries, making this project ideal for Data Analyst / Business Analyst roles.
 
 ## 🎯 Objectives
   -	Analyze sales and revenue performance
@@ -51,7 +49,38 @@ Contains item-level order details. - order_item_id - order_id - product_id - qua
    	
 (Complete list available inside the /queries folder)
 
+## Project Structure
+
 ```
+ecommerce-sql-portfolio/
+│
+├── data/
+│   ├── ecom_customers.csv
+│   ├── ecom_products.csv
+│   ├── ecom_orders.csv
+│   └── ecom_order_items.csv
+│
+├── schema/
+│   └── create_tables.sql
+│
+├── queries/
+│   ├── 01_basic_joins.sql
+│   ├── 02_sales_analysis.sql
+│   ├── 03_customer_analysis.sql
+│   ├── 04_date_analysis.sql
+│   ├── 05_window_functions.sql
+│   ├── 06_cte_analysis.sql
+│   └── 07_advanced_business_queries.sql
+│
+├── insights/
+│   └── key_findings.md
+│
+├── visuals/
+│   └── charts_screenshots.png
+│
+└── README.md
+```
+
 
 
 ## 🚀 How to Run This Project
