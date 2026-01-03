@@ -31,7 +31,7 @@ This project focuses on analyzing telecom customer data to understand usage beha
   - Understand product/service demand
   - Support churn prevention and revenue optimization
 
-## 🗂️ Dataset Overview (<a href="https://github.com/Saranes55/SQL_Projects/tree/main/Ecommerce%20Analysis/Datasets">link</a>)
+## 🗂️ Dataset Overview (<a href="https://github.com/Saranes55/SQL_Projects/tree/main/Telecom%20Customers%20Analysis/Datasets">link</a>)
   - **customers.csv** – Customer profile information
   - **customers_usage.csv** – Usage and consumption data
   - **orders.csv** – Service purchase details
