@@ -52,7 +52,7 @@ Contains item-level order details. - order_item_id - order_id - product_id - qua
 ## Project Structure
 
 ```
-ecommerce-sql-portfolio/
+ecommerce-sql query
 │
 ├── data/
 │   ├── ecom_customers.csv
